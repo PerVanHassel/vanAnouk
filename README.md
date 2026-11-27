@@ -54,6 +54,14 @@ zonder WordPress:
 - RSS-feeds, `xmlrpc.php` en de oEmbed-links in de `<head>` wijzen nog naar de live
   site. Ze zijn niet zichtbaar en hebben geen invloed op de weergave.
 
+## Niet alle afbeeldingsformaten
+
+WordPress maakt van elke upload een reeks verkleinde versies. Alle versies die op een
+pagina worden gebruikt, staan in `site/`. Ongeveer 650 extra formaten uit de
+mediabibliotheek, die nergens op de site voorkomen, zitten er niet in. De hosting blokkeerde
+het ophalen na een paar verzoeken telkens voor 10 minuten. Op de weergave heeft dit geen
+invloed. Wil je ze toch hebben: download de map `wp-content/uploads` via FTP.
+
 ## Wat er níet in zit
 
 De PHP-bestanden van WordPress, het thema (Bridge + Bridge child) en de plugins, de
