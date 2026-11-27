@@ -63,6 +63,10 @@ def canon(u):
 
 
 def rel(from_file, target, root_relative):
+    return up.quote(_rel(from_file, target, root_relative), safe="/@:+,;=!$&'()*~%.-_")
+
+
+def _rel(from_file, target, root_relative):
     pretty = target.endswith('index.html')
     tdir = posixpath.dirname(target) if pretty else target
     if root_relative:

@@ -1,0 +1,936 @@
+[
+ {
+  "id": 371,
+  "date": "2019-04-30T15:19:52",
+  "date_gmt": "2019-04-30T15:19:52",
+  "guid": {
+   "rendered": "https://vananouk.nl/?page_id=371"
+  },
+  "modified": "2019-04-30T15:20:55",
+  "modified_gmt": "2019-04-30T15:20:55",
+  "slug": "qode-test",
+  "status": "publish",
+  "type": "page",
+  "link": "https://vananouk.nl/qode-test/",
+  "title": {
+   "rendered": "Qode Test"
+  },
+  "content": {
+   "rendered": "<p>[vc_row css_animation=&#8221;&#8221; row_type=&#8221;row&#8221; use_row_as_full_screen_section=&#8221;no&#8221; type=&#8221;full_width&#8221; angled_section=&#8221;no&#8221; text_align=&#8221;left&#8221; background_image_as_pattern=&#8221;without_pattern&#8221;][vc_column][rev_slider_vc alias=&#8221;resume1&#8243;][/vc_column][/vc_row]</p>\n",
+   "protected": false
+  },
+  "excerpt": {
+   "rendered": "<p>[vc_row css_animation=&#8221;&#8221; row_type=&#8221;row&#8221; use_row_as_full_screen_section=&#8221;no&#8221; type=&#8221;full_width&#8221; angled_section=&#8221;no&#8221; text_align=&#8221;left&#8221; background_image_as_pattern=&#8221;without_pattern&#8221;][vc_column][rev_slider_vc alias=&#8221;resume1&#8243;][/vc_column][/vc_row]</p>\n",
+   "protected": false
+  },
+  "author": 3,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "full_width.php",
+  "meta": [],
+  "_links": {
+   "self": [
+    {
+     "href": "https://vananouk.nl/wp-json/wp/v2/pages/371"
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://vananouk.nl/wp-json/wp/v2/pages"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://vananouk.nl/wp-json/wp/v2/types/page"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://vananouk.nl/wp-json/wp/v2/users/3"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://vananouk.nl/wp-json/wp/v2/comments?post=371"
+    }
+   ],
+   "version-history": [
+    {
+     "count": 2,
+     "href": "https://vananouk.nl/wp-json/wp/v2/pages/371/revisions"
+    }
+   ],
+   "predecessor-version": [
+    {
+     "id": 373,
+     "href": "https://vananouk.nl/wp-json/wp/v2/pages/371/revisions/373"
+    }
+   ],
+   "wp:attachment": [
+    {
+     "href": "https://vananouk.nl/wp-json/wp/v2/media?parent=371"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 165,
+  "date": "2019-03-21T07:56:17",
+  "date_gmt": "2019-03-21T07:56:17",
+  "guid": {
+   "rendered": "http://vananouk.nl/?page_id=165"
+  },
+  "modified": "2019-05-20T11:32:41",
+  "modified_gmt": "2019-05-20T11:32:41",
+  "slug": "magazines",
+  "status": "publish",
+  "type": "page",
+  "link": "https://vananouk.nl/magazines/",
+  "title": {
+   "rendered": "Magazines"
+  },
+  "content": {
+   "rendered": "<p>[vc_row css_animation=&#8221;&#8221; row_type=&#8221;row&#8221; use_row_as_full_screen_section=&#8221;no&#8221; type=&#8221;full_width&#8221; angled_section=&#8221;no&#8221; text_align=&#8221;left&#8221; background_image_as_pattern=&#8221;without_pattern&#8221;][vc_column]<div class=\"qode-split-scrolling-section\">\n    <div class=\"qode-sss-ms-left\"><div class=\"qode-sss-ms-section\"  style=\"background-image: url(https://vananouk.nl/wp-content/uploads/2019/03/Magazines-links.png);text-align: left\">\n\t[qode_elements_holder number_of_columns=&#8221;one_column&#8221;][qode_elements_holder_item advanced_animations=&#8221;no&#8221; item_padding=&#8221;90.2vh 10px 0px 75px&#8221; item_padding_1280_1440=&#8221;87vh 10px 0px 41px&#8221; item_padding_1024_1280=&#8221;87vh 10px 0px 41px&#8221; item_padding_768_1024=&#8221;85.2vh 10px 49px 41px&#8221; item_padding_600_768=&#8221;81.2vh 10px 28px 41px&#8221; item_padding_480=&#8221;72.2vh 10px 21px 41px&#8221;][vc_empty_space height=&#8221;15px&#8221;]<span data-type=\"normal\" data-hover-icon-color=\"#ffffff\" class=\"qode_icon_shortcode  q_font_awsome_icon fa-lg  \" style=\"margin: 0px 22px 0px 0px; \"><a  itemprop=\"url\" href=\"https://www.facebook.com/vanAnouk/\" target=\"_blank\"><i class=\"qode_icon_font_awesome fa fa-facebook qode_icon_element\" style=\"font-size: 24px;color: #ffffff;\" ></i></a></span><span data-type=\"normal\" data-hover-icon-color=\"#ffffff\" class=\"qode_icon_shortcode  q_font_awsome_icon fa-lg  \" style=\"margin: 0px 22px 0px 0px; \"><a  itemprop=\"url\" href=\"https://www.instagram.com/vananouk1999/\" target=\"_blank\"><i class=\"qode_icon_font_awesome fa fa-instagram qode_icon_element\" style=\"font-size: 24px;color: #ffffff;\" ></i></a></span><span data-type=\"normal\" data-hover-icon-color=\"#ffffff\" class=\"qode_icon_shortcode  q_font_awsome_icon fa-lg  \" style=\"margin: 0px 22px 0px 0px; \"><a  itemprop=\"url\" href=\"https://www.linkedin.com/in/anouk-houter-30659011/\" target=\"_blank\"><i class=\"qode_icon_font_awesome fa fa-linkedin qode_icon_element\" style=\"font-size: 24px;color: #ffffff;\" ></i></a></span>[/qode_elements_holder_item][/qode_elements_holder]</div></div><div class=\"qode-sss-ms-right\"><div class=\"qode-sss-ms-section\"  style=\"background-color: #759ba3;text-align: left\">\n\t[qode_elements_holder number_of_columns=&#8221;two_columns&#8221; switch_to_one_column=&#8221;1300&#8243;][qode_elements_holder_item advanced_animations=&#8221;no&#8221; item_padding=&#8221;112px 93px 0px 85px&#8221; item_padding_1280_1440=&#8221;58px 50px 0px 47px&#8221; item_padding_1024_1280=&#8221;49px 14px 0px 31px&#8221; item_padding_768_1024=&#8221;28px 14px 59px 31px&#8221; item_padding_600_768=&#8221;32px 39px 0px 66px&#8221; item_padding_480=&#8221;14px 0px 30px 22px&#8221; custom_class=&#8221;eh-with-line&#8221;][vc_column_text css=&#8221;.vc_custom_1556807439976{margin-bottom: -1% !important;}&#8221;]</p>\n<h2><span style=\"color: #ffffff;\">MAGAZINES</span></h2>\n<p>[/vc_column_text]<div class=\"qode-advanced-image-gallery  qode-aig-grid-type qode-normal-space  qode-image-behavior-lightbox \">\n\t<div class=\"qode-aig-inner qode-outer-space qode-aig-grid qode-aig-two-columns\">\n\t\t\t\t\t<div class=\"qode-aig-image qode-item-space\">\n\t\t\t\t<div class=\"qode-aig-image-inner\">\n\t\t\t\t\t\t\t\t\t\t\t<a itemprop=\"image\" class=\"qode-aig-lightbox\" href=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-magazines.png\" data-rel=\"prettyPhoto[image_gallery_pretty_photo-415]\" title=\"ontwerp en opmaak ‘Burgerhout bruist’\">\n\t\t\t\t\t\t\t\t\t\t\t<img width=\"800\" height=\"645\" src=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-magazines.png\" class=\"attachment-full size-full\" alt=\"ontwerp en opmaak ‘Burgerhout bruist’\" srcset=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-magazines.png 800w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-magazines-300x242.png 300w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-magazines-768x619.png 768w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-magazines-700x564.png 700w\" sizes=\"(max-width: 800px) 100vw, 800px\" />\t\t\t\t\t\t<span class=\"aig-gallery-hover\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"icon-arrows-plus\"></span> \n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\t<div class=\"qode-aig-image qode-item-space\">\n\t\t\t\t<div class=\"qode-aig-image-inner\">\n\t\t\t\t\t\t\t\t\t\t\t<a itemprop=\"image\" class=\"qode-aig-lightbox\" href=\"https://vananouk.nl/wp-content/uploads/2019/05/Portfolio-magazines2.png\" data-rel=\"prettyPhoto[image_gallery_pretty_photo-415]\" title=\"ontwerp en opmaak ‘Burgerhout bruist’\">\n\t\t\t\t\t\t\t\t\t\t\t<img width=\"800\" height=\"645\" src=\"https://vananouk.nl/wp-content/uploads/2019/05/Portfolio-magazines2.png\" class=\"attachment-full size-full\" alt=\"ontwerp en opmaak ‘Burgerhout bruist’\" srcset=\"https://vananouk.nl/wp-content/uploads/2019/05/Portfolio-magazines2.png 800w, https://vananouk.nl/wp-content/uploads/2019/05/Portfolio-magazines2-300x242.png 300w, https://vananouk.nl/wp-content/uploads/2019/05/Portfolio-magazines2-768x619.png 768w, https://vananouk.nl/wp-content/uploads/2019/05/Portfolio-magazines2-700x564.png 700w\" sizes=\"(max-width: 800px) 100vw, 800px\" />\t\t\t\t\t\t<span class=\"aig-gallery-hover\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"icon-arrows-plus\"></span> \n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\t<div class=\"qode-aig-image qode-item-space\">\n\t\t\t\t<div class=\"qode-aig-image-inner\">\n\t\t\t\t\t\t\t\t\t\t\t<a itemprop=\"image\" class=\"qode-aig-lightbox\" href=\"https://vananouk.nl/wp-content/uploads/2019/05/Portfolio-magazines3.png\" data-rel=\"prettyPhoto[image_gallery_pretty_photo-415]\" title=\"ontwerp en opmaak ‘Magned&#8217;, Pelckmans uitgevers\">\n\t\t\t\t\t\t\t\t\t\t\t<img width=\"800\" height=\"645\" src=\"https://vananouk.nl/wp-content/uploads/2019/05/Portfolio-magazines3.png\" class=\"attachment-full size-full\" alt=\"ontwerp en opmaak ‘Magned&#039;, Pelckmans uitgevers\" srcset=\"https://vananouk.nl/wp-content/uploads/2019/05/Portfolio-magazines3.png 800w, https://vananouk.nl/wp-content/uploads/2019/05/Portfolio-magazines3-300x242.png 300w, https://vananouk.nl/wp-content/uploads/2019/05/Portfolio-magazines3-768x619.png 768w, https://vananouk.nl/wp-content/uploads/2019/05/Portfolio-magazines3-700x564.png 700w\" sizes=\"(max-width: 800px) 100vw, 800px\" />\t\t\t\t\t\t<span class=\"aig-gallery-hover\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"icon-arrows-plus\"></span> \n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\t<div class=\"qode-aig-image qode-item-space\">\n\t\t\t\t<div class=\"qode-aig-image-inner\">\n\t\t\t\t\t\t\t\t\t\t\t<a itemprop=\"image\" class=\"qode-aig-lightbox\" href=\"https://vananouk.nl/wp-content/uploads/2019/05/Portfolio-magazines4.png\" data-rel=\"prettyPhoto[image_gallery_pretty_photo-415]\" title=\"ontwerp en opmaak ‘Magned&#8217;, Pelckmans uitgevers\">\n\t\t\t\t\t\t\t\t\t\t\t<img width=\"800\" height=\"645\" src=\"https://vananouk.nl/wp-content/uploads/2019/05/Portfolio-magazines4.png\" class=\"attachment-full size-full\" alt=\"ontwerp en opmaak ‘Magned&#039;, Pelckmans uitgevers\" srcset=\"https://vananouk.nl/wp-content/uploads/2019/05/Portfolio-magazines4.png 800w, https://vananouk.nl/wp-content/uploads/2019/05/Portfolio-magazines4-300x242.png 300w, https://vananouk.nl/wp-content/uploads/2019/05/Portfolio-magazines4-768x619.png 768w, https://vananouk.nl/wp-content/uploads/2019/05/Portfolio-magazines4-700x564.png 700w\" sizes=\"(max-width: 800px) 100vw, 800px\" />\t\t\t\t\t\t<span class=\"aig-gallery-hover\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"icon-arrows-plus\"></span> \n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t</div>\n</div>[vc_empty_space height=&#8221;64px&#8221;]<a  itemprop=\"url\" href=\"http://vananouk.nl/logo-en-huisstijl/\" target=\"_self\"  class=\"qbutton  default\" style=\"\">Logo en huisstijl</a>[/qode_elements_holder_item][/qode_elements_holder]</div></div></div>[/vc_column][/vc_row]</p>\n",
+   "protected": false
+  },
+  "excerpt": {
+   "rendered": "<p>[vc_row css_animation=&#8221;&#8221; row_type=&#8221;row&#8221; use_row_as_full_screen_section=&#8221;no&#8221; type=&#8221;full_width&#8221; angled_section=&#8221;no&#8221; text_align=&#8221;left&#8221; background_image_as_pattern=&#8221;without_pattern&#8221;][vc_column][/vc_column][/vc_row]</p>\n",
+   "protected": false
+  },
+  "author": 2,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "full_width.php",
+  "meta": [],
+  "_links": {
+   "self": [
+    {
+     "href": "https://vananouk.nl/wp-json/wp/v2/pages/165"
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://vananouk.nl/wp-json/wp/v2/pages"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://vananouk.nl/wp-json/wp/v2/types/page"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://vananouk.nl/wp-json/wp/v2/users/2"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://vananouk.nl/wp-json/wp/v2/comments?post=165"
+    }
+   ],
+   "version-history": [
+    {
+     "count": 23,
+     "href": "https://vananouk.nl/wp-json/wp/v2/pages/165/revisions"
+    }
+   ],
+   "predecessor-version": [
+    {
+     "id": 424,
+     "href": "https://vananouk.nl/wp-json/wp/v2/pages/165/revisions/424"
+    }
+   ],
+   "wp:attachment": [
+    {
+     "href": "https://vananouk.nl/wp-json/wp/v2/media?parent=165"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 163,
+  "date": "2019-03-21T07:55:33",
+  "date_gmt": "2019-03-21T07:55:33",
+  "guid": {
+   "rendered": "http://vananouk.nl/?page_id=163"
+  },
+  "modified": "2019-05-20T11:32:33",
+  "modified_gmt": "2019-05-20T11:32:33",
+  "slug": "boeken",
+  "status": "publish",
+  "type": "page",
+  "link": "https://vananouk.nl/boeken/",
+  "title": {
+   "rendered": "Boeken"
+  },
+  "content": {
+   "rendered": "<p>[vc_row css_animation=&#8221;&#8221; row_type=&#8221;row&#8221; use_row_as_full_screen_section=&#8221;no&#8221; type=&#8221;full_width&#8221; angled_section=&#8221;no&#8221; text_align=&#8221;left&#8221; background_image_as_pattern=&#8221;without_pattern&#8221;][vc_column]<div class=\"qode-split-scrolling-section\">\n    <div class=\"qode-sss-ms-left\"><div class=\"qode-sss-ms-section\"  style=\"background-image: url(https://vananouk.nl/wp-content/uploads/2019/03/Boeken-links.png);text-align: left\">\n\t[qode_elements_holder number_of_columns=&#8221;one_column&#8221;][qode_elements_holder_item advanced_animations=&#8221;no&#8221; item_padding=&#8221;90.2vh 10px 0px 75px&#8221; item_padding_1280_1440=&#8221;87vh 10px 0px 41px&#8221; item_padding_1024_1280=&#8221;87vh 10px 0px 41px&#8221; item_padding_768_1024=&#8221;85.2vh 10px 49px 41px&#8221; item_padding_600_768=&#8221;81.2vh 10px 28px 41px&#8221; item_padding_480=&#8221;72.2vh 10px 21px 41px&#8221;][vc_empty_space height=&#8221;15px&#8221;]<span data-type=\"normal\" data-hover-icon-color=\"#ffffff\" class=\"qode_icon_shortcode  q_font_awsome_icon fa-lg  \" style=\"margin: 0px 22px 0px 0px; \"><a  itemprop=\"url\" href=\"https://www.facebook.com/vanAnouk/\" target=\"_blank\"><i class=\"qode_icon_font_awesome fa fa-facebook qode_icon_element\" style=\"font-size: 24px;color: #ffffff;\" ></i></a></span><span data-type=\"normal\" data-hover-icon-color=\"#ffffff\" class=\"qode_icon_shortcode  q_font_awsome_icon fa-lg  \" style=\"margin: 0px 22px 0px 0px; \"><a  itemprop=\"url\" href=\"https://www.instagram.com/vananouk1999/\" target=\"_blank\"><i class=\"qode_icon_font_awesome fa fa-instagram qode_icon_element\" style=\"font-size: 24px;color: #ffffff;\" ></i></a></span><span data-type=\"normal\" data-hover-icon-color=\"#ffffff\" class=\"qode_icon_shortcode  q_font_awsome_icon fa-lg  \" style=\"margin: 0px 22px 0px 0px; \"><a  itemprop=\"url\" href=\"https://www.linkedin.com/in/anouk-houter-30659011/\" target=\"_blank\"><i class=\"qode_icon_font_awesome fa fa-linkedin qode_icon_element\" style=\"font-size: 24px;color: #ffffff;\" ></i></a></span>[/qode_elements_holder_item][/qode_elements_holder]</div></div><div class=\"qode-sss-ms-right\"><div class=\"qode-sss-ms-section\"  style=\"text-align: left\">\n\t[qode_elements_holder number_of_columns=&#8221;two_columns&#8221; switch_to_one_column=&#8221;1300&#8243;][qode_elements_holder_item advanced_animations=&#8221;no&#8221; item_padding=&#8221;112px 93px 0px 85px&#8221; item_padding_1280_1440=&#8221;58px 50px 0px 47px&#8221; item_padding_1024_1280=&#8221;49px 14px 0px 31px&#8221; item_padding_768_1024=&#8221;28px 14px 59px 31px&#8221; item_padding_600_768=&#8221;32px 39px 0px 66px&#8221; item_padding_480=&#8221;14px 0px 30px 22px&#8221; custom_class=&#8221;eh-with-line&#8221;][vc_column_text css=&#8221;.vc_custom_1556807276374{margin-bottom: -1% !important;}&#8221;]</p>\n<h2><span style=\"color: #ffffff;\">BOEKEN</span></h2>\n<p>[/vc_column_text]<div class=\"qode-advanced-image-gallery  qode-aig-grid-type qode-normal-space  qode-image-behavior-lightbox \">\n\t<div class=\"qode-aig-inner qode-outer-space qode-aig-grid qode-aig-two-columns\">\n\t\t\t\t\t<div class=\"qode-aig-image qode-item-space\">\n\t\t\t\t<div class=\"qode-aig-image-inner\">\n\t\t\t\t\t\t\t\t\t\t\t<a itemprop=\"image\" class=\"qode-aig-lightbox\" href=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-boeken.png\" data-rel=\"prettyPhoto[image_gallery_pretty_photo-664]\" title=\"opmaak lay-out binnenwerk ‘Zonder woorden?’, Pelckmans uitgevers\">\n\t\t\t\t\t\t\t\t\t\t\t<img width=\"800\" height=\"645\" src=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-boeken.png\" class=\"attachment-full size-full\" alt=\"opmaak lay-out binnenwerk ‘Zonder woorden?’, Pelckmans uitgevers\" srcset=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-boeken.png 800w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-boeken-300x242.png 300w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-boeken-768x619.png 768w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-boeken-700x564.png 700w\" sizes=\"(max-width: 800px) 100vw, 800px\" />\t\t\t\t\t\t<span class=\"aig-gallery-hover\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"icon-arrows-plus\"></span> \n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\t<div class=\"qode-aig-image qode-item-space\">\n\t\t\t\t<div class=\"qode-aig-image-inner\">\n\t\t\t\t\t\t\t\t\t\t\t<a itemprop=\"image\" class=\"qode-aig-lightbox\" href=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-boeken2.png\" data-rel=\"prettyPhoto[image_gallery_pretty_photo-664]\" title=\"ontwerp en opmaak lay-out binnenwerk ‘Wat het is’, Pelckmans uitgevers\">\n\t\t\t\t\t\t\t\t\t\t\t<img width=\"800\" height=\"645\" src=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-boeken2.png\" class=\"attachment-full size-full\" alt=\"ontwerp en opmaak lay-out binnenwerk ‘Wat het is’, Pelckmans uitgevers\" srcset=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-boeken2.png 800w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-boeken2-300x242.png 300w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-boeken2-768x619.png 768w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-boeken2-700x564.png 700w\" sizes=\"(max-width: 800px) 100vw, 800px\" />\t\t\t\t\t\t<span class=\"aig-gallery-hover\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"icon-arrows-plus\"></span> \n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\t<div class=\"qode-aig-image qode-item-space\">\n\t\t\t\t<div class=\"qode-aig-image-inner\">\n\t\t\t\t\t\t\t\t\t\t\t<a itemprop=\"image\" class=\"qode-aig-lightbox\" href=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-boeken3.png\" data-rel=\"prettyPhoto[image_gallery_pretty_photo-664]\" title=\"ontwerp en opmaak lay-out binnenwerk ‘Welkom aan boord’, uitgeverij van Halewyck\">\n\t\t\t\t\t\t\t\t\t\t\t<img width=\"800\" height=\"645\" src=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-boeken3.png\" class=\"attachment-full size-full\" alt=\"ontwerp en opmaak lay-out binnenwerk ‘Welkom aan boord’, uitgeverij van Halewyck\" srcset=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-boeken3.png 800w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-boeken3-300x242.png 300w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-boeken3-768x619.png 768w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-boeken3-700x564.png 700w\" sizes=\"(max-width: 800px) 100vw, 800px\" />\t\t\t\t\t\t<span class=\"aig-gallery-hover\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"icon-arrows-plus\"></span> \n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\t<div class=\"qode-aig-image qode-item-space\">\n\t\t\t\t<div class=\"qode-aig-image-inner\">\n\t\t\t\t\t\t\t\t\t\t\t<a itemprop=\"image\" class=\"qode-aig-lightbox\" href=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-boeken4.png\" data-rel=\"prettyPhoto[image_gallery_pretty_photo-664]\" title=\"ontwerp en opmaak lay-out binnenwerk ‘Belgium et cetera’, uitgeverij van Halewyck\">\n\t\t\t\t\t\t\t\t\t\t\t<img width=\"800\" height=\"645\" src=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-boeken4.png\" class=\"attachment-full size-full\" alt=\"ontwerp en opmaak lay-out binnenwerk ‘Belgium et cetera’, uitgeverij van Halewyck\" srcset=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-boeken4.png 800w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-boeken4-300x242.png 300w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-boeken4-768x619.png 768w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-boeken4-700x564.png 700w\" sizes=\"(max-width: 800px) 100vw, 800px\" />\t\t\t\t\t\t<span class=\"aig-gallery-hover\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"icon-arrows-plus\"></span> \n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\t<div class=\"qode-aig-image qode-item-space\">\n\t\t\t\t<div class=\"qode-aig-image-inner\">\n\t\t\t\t\t\t\t\t\t\t\t<a itemprop=\"image\" class=\"qode-aig-lightbox\" href=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-boeken5.png\" data-rel=\"prettyPhoto[image_gallery_pretty_photo-664]\" title=\"ontwerp en opmaak lay-out binnenwerk ‘Belgium art  cetera’, uitgeverij van Halewyck\">\n\t\t\t\t\t\t\t\t\t\t\t<img width=\"800\" height=\"645\" src=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-boeken5.png\" class=\"attachment-full size-full\" alt=\"ontwerp en opmaak lay-out binnenwerk ‘Belgium art cetera’, uitgeverij van Halewyck\" srcset=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-boeken5.png 800w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-boeken5-300x242.png 300w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-boeken5-768x619.png 768w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-boeken5-700x564.png 700w\" sizes=\"(max-width: 800px) 100vw, 800px\" />\t\t\t\t\t\t<span class=\"aig-gallery-hover\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"icon-arrows-plus\"></span> \n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\t<div class=\"qode-aig-image qode-item-space\">\n\t\t\t\t<div class=\"qode-aig-image-inner\">\n\t\t\t\t\t\t\t\t\t\t\t<a itemprop=\"image\" class=\"qode-aig-lightbox\" href=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-boeken6.png\" data-rel=\"prettyPhoto[image_gallery_pretty_photo-664]\" title=\"ontwerp en opmaak lay-out binnenwerk ‘Rechts is waar de duim links staat’, Pelckmans uitgevers\">\n\t\t\t\t\t\t\t\t\t\t\t<img width=\"800\" height=\"645\" src=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-boeken6.png\" class=\"attachment-full size-full\" alt=\"ontwerp en opmaak lay-out binnenwerk ‘Rechts is waar de duim links staat’, Pelckmans uitgevers\" srcset=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-boeken6.png 800w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-boeken6-300x242.png 300w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-boeken6-768x619.png 768w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-boeken6-700x564.png 700w\" sizes=\"(max-width: 800px) 100vw, 800px\" />\t\t\t\t\t\t<span class=\"aig-gallery-hover\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"icon-arrows-plus\"></span> \n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\t<div class=\"qode-aig-image qode-item-space\">\n\t\t\t\t<div class=\"qode-aig-image-inner\">\n\t\t\t\t\t\t\t\t\t\t\t<a itemprop=\"image\" class=\"qode-aig-lightbox\" href=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-boeken7.png\" data-rel=\"prettyPhoto[image_gallery_pretty_photo-664]\" title=\"ontwerp en opmaak lay-out omslag en binnenwerk ‘Vele (om)wegen naar groei’, Unizo\">\n\t\t\t\t\t\t\t\t\t\t\t<img width=\"800\" height=\"645\" src=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-boeken7.png\" class=\"attachment-full size-full\" alt=\"ontwerp en opmaak lay-out omslag en binnenwerk ‘Vele (om)wegen naar groei’, Unizo\" srcset=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-boeken7.png 800w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-boeken7-300x242.png 300w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-boeken7-768x619.png 768w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-boeken7-700x564.png 700w\" sizes=\"(max-width: 800px) 100vw, 800px\" />\t\t\t\t\t\t<span class=\"aig-gallery-hover\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"icon-arrows-plus\"></span> \n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\t<div class=\"qode-aig-image qode-item-space\">\n\t\t\t\t<div class=\"qode-aig-image-inner\">\n\t\t\t\t\t\t\t\t\t\t\t<a itemprop=\"image\" class=\"qode-aig-lightbox\" href=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-boeken8.png\" data-rel=\"prettyPhoto[image_gallery_pretty_photo-664]\" title=\"ontwerp en opmaak lay-out omslag en binnenwerk ‘Cyberrisico&#8217;s’, Politeia\">\n\t\t\t\t\t\t\t\t\t\t\t<img width=\"800\" height=\"645\" src=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-boeken8.png\" class=\"attachment-full size-full\" alt=\"ontwerp en opmaak lay-out omslag en binnenwerk ‘Cyberrisico&#039;s’, Politeia\" srcset=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-boeken8.png 800w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-boeken8-300x242.png 300w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-boeken8-768x619.png 768w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-boeken8-700x564.png 700w\" sizes=\"(max-width: 800px) 100vw, 800px\" />\t\t\t\t\t\t<span class=\"aig-gallery-hover\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"icon-arrows-plus\"></span> \n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t</div>\n</div>[vc_empty_space]<a  itemprop=\"url\" href=\"http://vananouk.nl/magazines/\" target=\"_self\"  class=\"qbutton  default\" style=\"\">Magazines</a>[/qode_elements_holder_item][/qode_elements_holder]</div></div></div>[/vc_column][/vc_row]</p>\n",
+   "protected": false
+  },
+  "excerpt": {
+   "rendered": "<p>[vc_row css_animation=&#8221;&#8221; row_type=&#8221;row&#8221; use_row_as_full_screen_section=&#8221;no&#8221; type=&#8221;full_width&#8221; angled_section=&#8221;no&#8221; text_align=&#8221;left&#8221; background_image_as_pattern=&#8221;without_pattern&#8221;][vc_column][/vc_column][/vc_row]</p>\n",
+   "protected": false
+  },
+  "author": 2,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "full_width.php",
+  "meta": [],
+  "_links": {
+   "self": [
+    {
+     "href": "https://vananouk.nl/wp-json/wp/v2/pages/163"
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://vananouk.nl/wp-json/wp/v2/pages"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://vananouk.nl/wp-json/wp/v2/types/page"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://vananouk.nl/wp-json/wp/v2/users/2"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://vananouk.nl/wp-json/wp/v2/comments?post=163"
+    }
+   ],
+   "version-history": [
+    {
+     "count": 20,
+     "href": "https://vananouk.nl/wp-json/wp/v2/pages/163/revisions"
+    }
+   ],
+   "predecessor-version": [
+    {
+     "id": 423,
+     "href": "https://vananouk.nl/wp-json/wp/v2/pages/163/revisions/423"
+    }
+   ],
+   "wp:attachment": [
+    {
+     "href": "https://vananouk.nl/wp-json/wp/v2/media?parent=163"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 160,
+  "date": "2019-03-21T07:54:06",
+  "date_gmt": "2019-03-21T07:54:06",
+  "guid": {
+   "rendered": "http://vananouk.nl/?page_id=160"
+  },
+  "modified": "2019-05-20T11:32:27",
+  "modified_gmt": "2019-05-20T11:32:27",
+  "slug": "educatieve-uitgaven",
+  "status": "publish",
+  "type": "page",
+  "link": "https://vananouk.nl/educatieve-uitgaven/",
+  "title": {
+   "rendered": "Educatieve uitgaven"
+  },
+  "content": {
+   "rendered": "<p>[vc_row css_animation=&#8221;&#8221; row_type=&#8221;row&#8221; use_row_as_full_screen_section=&#8221;no&#8221; type=&#8221;full_width&#8221; angled_section=&#8221;no&#8221; text_align=&#8221;left&#8221; background_image_as_pattern=&#8221;without_pattern&#8221;][vc_column]<div class=\"qode-split-scrolling-section\">\n    <div class=\"qode-sss-ms-left\"><div class=\"qode-sss-ms-section\"  style=\"background-image: url(https://vananouk.nl/wp-content/uploads/2019/03/Educatief-links.png);text-align: left\">\n\t[qode_elements_holder number_of_columns=&#8221;one_column&#8221;][qode_elements_holder_item advanced_animations=&#8221;no&#8221; item_padding=&#8221;90.2vh 10px 0px 75px&#8221; item_padding_1280_1440=&#8221;87vh 10px 0px 41px&#8221; item_padding_1024_1280=&#8221;87vh 10px 0px 41px&#8221; item_padding_768_1024=&#8221;85.2vh 10px 49px 41px&#8221; item_padding_600_768=&#8221;81.2vh 10px 28px 41px&#8221; item_padding_480=&#8221;72.2vh 10px 21px 41px&#8221;][vc_empty_space height=&#8221;15px&#8221;]<span data-type=\"normal\" data-hover-icon-color=\"#ffffff\" class=\"qode_icon_shortcode  q_font_awsome_icon fa-lg  \" style=\"margin: 0px 22px 0px 0px; \"><a  itemprop=\"url\" href=\"https://www.facebook.com/vanAnouk/\" target=\"_blank\"><i class=\"qode_icon_font_awesome fa fa-facebook qode_icon_element\" style=\"font-size: 24px;color: #ffffff;\" ></i></a></span><span data-type=\"normal\" data-hover-icon-color=\"#ffffff\" class=\"qode_icon_shortcode  q_font_awsome_icon fa-lg  \" style=\"margin: 0px 22px 0px 0px; \"><a  itemprop=\"url\" href=\"https://www.instagram.com/vananouk1999/\" target=\"_blank\"><i class=\"qode_icon_font_awesome fa fa-instagram qode_icon_element\" style=\"font-size: 24px;color: #ffffff;\" ></i></a></span><span data-type=\"normal\" data-hover-icon-color=\"#ffffff\" class=\"qode_icon_shortcode  q_font_awsome_icon fa-lg  \" style=\"margin: 0px 22px 0px 0px; \"><a  itemprop=\"url\" href=\"https://www.linkedin.com/in/anouk-houter-30659011/\" target=\"_blank\"><i class=\"qode_icon_font_awesome fa fa-linkedin qode_icon_element\" style=\"font-size: 24px;color: #ffffff;\" ></i></a></span>[/qode_elements_holder_item][/qode_elements_holder]</div></div><div class=\"qode-sss-ms-right\"><div class=\"qode-sss-ms-section\"  style=\"text-align: left\">\n\t[qode_elements_holder number_of_columns=&#8221;two_columns&#8221; switch_to_one_column=&#8221;1300&#8243;][qode_elements_holder_item advanced_animations=&#8221;no&#8221; item_padding=&#8221;112px 93px 0px 85px&#8221; item_padding_1280_1440=&#8221;58px 50px 0px 47px&#8221; item_padding_1024_1280=&#8221;49px 14px 0px 31px&#8221; item_padding_768_1024=&#8221;28px 14px 59px 31px&#8221; item_padding_600_768=&#8221;32px 39px 0px 66px&#8221; item_padding_480=&#8221;14px 0px 30px 22px&#8221; custom_class=&#8221;eh-with-line&#8221;][vc_column_text css=&#8221;.vc_custom_1556807198244{margin-bottom: -1% !important;}&#8221;]</p>\n<h2><span style=\"color: #ffffff;\">EDUCATIEVE UITGAVEN</span></h2>\n<p>[/vc_column_text]<div class=\"qode-advanced-image-gallery  qode-aig-grid-type qode-normal-space  qode-image-behavior-lightbox \">\n\t<div class=\"qode-aig-inner qode-outer-space qode-aig-grid qode-aig-two-columns\">\n\t\t\t\t\t<div class=\"qode-aig-image qode-item-space\">\n\t\t\t\t<div class=\"qode-aig-image-inner\">\n\t\t\t\t\t\t\t\t\t\t\t<a itemprop=\"image\" class=\"qode-aig-lightbox\" href=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-educatief.png\" data-rel=\"prettyPhoto[image_gallery_pretty_photo-300]\" title=\"opmaak lay-out binnenwerk bronnenboek en werkboek ‘Frappant&#8217;, Pelckmans uitgevers\">\n\t\t\t\t\t\t\t\t\t\t\t<img width=\"800\" height=\"645\" src=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-educatief.png\" class=\"attachment-full size-full\" alt=\"opmaak lay-out binnenwerk bronnenboek en werkboek ‘Frappant&#039;, Pelckmans uitgevers\" srcset=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-educatief.png 800w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-educatief-300x242.png 300w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-educatief-768x619.png 768w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-educatief-700x564.png 700w\" sizes=\"(max-width: 800px) 100vw, 800px\" />\t\t\t\t\t\t<span class=\"aig-gallery-hover\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"icon-arrows-plus\"></span> \n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\t<div class=\"qode-aig-image qode-item-space\">\n\t\t\t\t<div class=\"qode-aig-image-inner\">\n\t\t\t\t\t\t\t\t\t\t\t<a itemprop=\"image\" class=\"qode-aig-lightbox\" href=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-educatief2.png\" data-rel=\"prettyPhoto[image_gallery_pretty_photo-300]\" title=\"opmaak lay-out binnenwerk werkboek &#8216;Get up&#8217;, Pelckmans uitgevers\">\n\t\t\t\t\t\t\t\t\t\t\t<img width=\"800\" height=\"645\" src=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-educatief2.png\" class=\"attachment-full size-full\" alt=\"opmaak lay-out binnenwerk werkboek &#039;Get up&#039;, Pelckmans uitgevers\" srcset=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-educatief2.png 800w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-educatief2-300x242.png 300w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-educatief2-768x619.png 768w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-educatief2-700x564.png 700w\" sizes=\"(max-width: 800px) 100vw, 800px\" />\t\t\t\t\t\t<span class=\"aig-gallery-hover\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"icon-arrows-plus\"></span> \n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\t<div class=\"qode-aig-image qode-item-space\">\n\t\t\t\t<div class=\"qode-aig-image-inner\">\n\t\t\t\t\t\t\t\t\t\t\t<a itemprop=\"image\" class=\"qode-aig-lightbox\" href=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-educatief3.png\" data-rel=\"prettyPhoto[image_gallery_pretty_photo-300]\" title=\"restylen lay-out binnenwerk werkboek &#8216;Quartier libre&#8217;, Pelckmans uitgevers\">\n\t\t\t\t\t\t\t\t\t\t\t<img width=\"800\" height=\"645\" src=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-educatief3.png\" class=\"attachment-full size-full\" alt=\"restylen lay-out binnenwerk werkboek &#039;Quartier libre&#039;, Pelckmans uitgevers\" srcset=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-educatief3.png 800w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-educatief3-300x242.png 300w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-educatief3-768x619.png 768w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-educatief3-700x564.png 700w\" sizes=\"(max-width: 800px) 100vw, 800px\" />\t\t\t\t\t\t<span class=\"aig-gallery-hover\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"icon-arrows-plus\"></span> \n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\t<div class=\"qode-aig-image qode-item-space\">\n\t\t\t\t<div class=\"qode-aig-image-inner\">\n\t\t\t\t\t\t\t\t\t\t\t<a itemprop=\"image\" class=\"qode-aig-lightbox\" href=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-educatief4.png\" data-rel=\"prettyPhoto[image_gallery_pretty_photo-300]\" title=\"ontwerp covers van ‘Campus&#8217;, Pelckmans uitgevers\">\n\t\t\t\t\t\t\t\t\t\t\t<img width=\"800\" height=\"645\" src=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-educatief4.png\" class=\"attachment-full size-full\" alt=\"ontwerp covers van ‘Campus&#039;, Pelckmans uitgevers\" srcset=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-educatief4.png 800w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-educatief4-300x242.png 300w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-educatief4-768x619.png 768w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-educatief4-700x564.png 700w\" sizes=\"(max-width: 800px) 100vw, 800px\" />\t\t\t\t\t\t<span class=\"aig-gallery-hover\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"icon-arrows-plus\"></span> \n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\t<div class=\"qode-aig-image qode-item-space\">\n\t\t\t\t<div class=\"qode-aig-image-inner\">\n\t\t\t\t\t\t\t\t\t\t\t<a itemprop=\"image\" class=\"qode-aig-lightbox\" href=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-educatief5.png\" data-rel=\"prettyPhoto[image_gallery_pretty_photo-300]\" title=\"opmaak lay-out binnenwerk werkboek en handleiding &#8216;iedereen spelt&#8217;, Pelckmans uitgevers\">\n\t\t\t\t\t\t\t\t\t\t\t<img width=\"800\" height=\"645\" src=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-educatief5.png\" class=\"attachment-full size-full\" alt=\"opmaak lay-out binnenwerk werkboek en handleiding &#039;iedereen spelt&#039;, Pelckmans uitgevers\" srcset=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-educatief5.png 800w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-educatief5-300x242.png 300w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-educatief5-768x619.png 768w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-educatief5-700x564.png 700w\" sizes=\"(max-width: 800px) 100vw, 800px\" />\t\t\t\t\t\t<span class=\"aig-gallery-hover\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"icon-arrows-plus\"></span> \n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\t<div class=\"qode-aig-image qode-item-space\">\n\t\t\t\t<div class=\"qode-aig-image-inner\">\n\t\t\t\t\t\t\t\t\t\t\t<a itemprop=\"image\" class=\"qode-aig-lightbox\" href=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-educatief6.png\" data-rel=\"prettyPhoto[image_gallery_pretty_photo-300]\" title=\"opmaak lay-out binnenwerk werkboek &#8216;Spelling in beeld&#8217;, Uitgeverij Zwijsen\">\n\t\t\t\t\t\t\t\t\t\t\t<img width=\"800\" height=\"645\" src=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-educatief6.png\" class=\"attachment-full size-full\" alt=\"opmaak lay-out binnenwerk werkboek &#039;Spelling in beeld&#039;, Uitgeverij Zwijsen\" srcset=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-educatief6.png 800w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-educatief6-300x242.png 300w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-educatief6-768x619.png 768w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-educatief6-700x564.png 700w\" sizes=\"(max-width: 800px) 100vw, 800px\" />\t\t\t\t\t\t<span class=\"aig-gallery-hover\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"icon-arrows-plus\"></span> \n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\t<div class=\"qode-aig-image qode-item-space\">\n\t\t\t\t<div class=\"qode-aig-image-inner\">\n\t\t\t\t\t\t\t\t\t\t\t<a itemprop=\"image\" class=\"qode-aig-lightbox\" href=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-educatief7.png\" data-rel=\"prettyPhoto[image_gallery_pretty_photo-300]\" title=\"opmaak lay-out binnenwerk kopieerboek &#8216;Spelling in beeld&#8217;, Uitgeverij Zwijsen\">\n\t\t\t\t\t\t\t\t\t\t\t<img width=\"800\" height=\"645\" src=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-educatief7.png\" class=\"attachment-full size-full\" alt=\"opmaak lay-out binnenwerk kopieerboek &#039;Spelling in beeld&#039;, Uitgeverij Zwijsen\" srcset=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-educatief7.png 800w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-educatief7-300x242.png 300w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-educatief7-768x619.png 768w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-educatief7-700x564.png 700w\" sizes=\"(max-width: 800px) 100vw, 800px\" />\t\t\t\t\t\t<span class=\"aig-gallery-hover\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"icon-arrows-plus\"></span> \n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\t<div class=\"qode-aig-image qode-item-space\">\n\t\t\t\t<div class=\"qode-aig-image-inner\">\n\t\t\t\t\t\t\t\t\t\t\t<a itemprop=\"image\" class=\"qode-aig-lightbox\" href=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-educatief8.png\" data-rel=\"prettyPhoto[image_gallery_pretty_photo-300]\" title=\"opmaak lay-out binnenwerk werkboek &#8216;Taal in beeld&#8217;, Uitgeverij Zwijsen\">\n\t\t\t\t\t\t\t\t\t\t\t<img width=\"800\" height=\"645\" src=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-educatief8.png\" class=\"attachment-full size-full\" alt=\"opmaak lay-out binnenwerk werkboek &#039;Taal in beeld&#039;, Uitgeverij Zwijsen\" srcset=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-educatief8.png 800w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-educatief8-300x242.png 300w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-educatief8-768x619.png 768w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-educatief8-700x564.png 700w\" sizes=\"(max-width: 800px) 100vw, 800px\" />\t\t\t\t\t\t<span class=\"aig-gallery-hover\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<span class=\"icon-arrows-plus\"></span> \n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t</div>\n</div>[vc_empty_space]<a  itemprop=\"url\" href=\"http://vananouk.nl/boeken/\" target=\"_self\"  class=\"qbutton  default\" style=\"\">Boeken</a>[/qode_elements_holder_item][/qode_elements_holder]</div></div></div>[/vc_column][/vc_row]</p>\n",
+   "protected": false
+  },
+  "excerpt": {
+   "rendered": "<p>[vc_row css_animation=&#8221;&#8221; row_type=&#8221;row&#8221; use_row_as_full_screen_section=&#8221;no&#8221; type=&#8221;full_width&#8221; angled_section=&#8221;no&#8221; text_align=&#8221;left&#8221; background_image_as_pattern=&#8221;without_pattern&#8221;][vc_column][/vc_column][/vc_row]</p>\n",
+   "protected": false
+  },
+  "author": 2,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "full_width.php",
+  "meta": [],
+  "_links": {
+   "self": [
+    {
+     "href": "https://vananouk.nl/wp-json/wp/v2/pages/160"
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://vananouk.nl/wp-json/wp/v2/pages"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://vananouk.nl/wp-json/wp/v2/types/page"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://vananouk.nl/wp-json/wp/v2/users/2"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://vananouk.nl/wp-json/wp/v2/comments?post=160"
+    }
+   ],
+   "version-history": [
+    {
+     "count": 22,
+     "href": "https://vananouk.nl/wp-json/wp/v2/pages/160/revisions"
+    }
+   ],
+   "predecessor-version": [
+    {
+     "id": 422,
+     "href": "https://vananouk.nl/wp-json/wp/v2/pages/160/revisions/422"
+    }
+   ],
+   "wp:attachment": [
+    {
+     "href": "https://vananouk.nl/wp-json/wp/v2/media?parent=160"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 158,
+  "date": "2019-03-21T07:53:32",
+  "date_gmt": "2019-03-21T07:53:32",
+  "guid": {
+   "rendered": "http://vananouk.nl/?page_id=158"
+  },
+  "modified": "2019-05-20T11:31:53",
+  "modified_gmt": "2019-05-20T11:31:53",
+  "slug": "logo-en-huisstijl",
+  "status": "publish",
+  "type": "page",
+  "link": "https://vananouk.nl/logo-en-huisstijl/",
+  "title": {
+   "rendered": "Logo en huisstijl"
+  },
+  "content": {
+   "rendered": "<p>[vc_row css_animation=&#8221;&#8221; row_type=&#8221;row&#8221; use_row_as_full_screen_section=&#8221;no&#8221; type=&#8221;full_width&#8221; angled_section=&#8221;no&#8221; text_align=&#8221;left&#8221; background_image_as_pattern=&#8221;without_pattern&#8221;][vc_column]<div class=\"qode-split-scrolling-section\">\n    <div class=\"qode-sss-ms-left\"><div class=\"qode-sss-ms-section\"  style=\"background-image: url(https://vananouk.nl/wp-content/uploads/2019/03/Huisstijl.png);text-align: left\">\n\t[qode_elements_holder number_of_columns=&#8221;one_column&#8221;][qode_elements_holder_item advanced_animations=&#8221;no&#8221; item_padding=&#8221;90.2vh 10px 0px 75px&#8221; item_padding_1280_1440=&#8221;87vh 10px 0px 41px&#8221; item_padding_1024_1280=&#8221;87vh 10px 0px 41px&#8221; item_padding_768_1024=&#8221;85.2vh 10px 49px 41px&#8221; item_padding_600_768=&#8221;81.2vh 10px 28px 41px&#8221; item_padding_480=&#8221;72.2vh 10px 21px 41px&#8221;][vc_empty_space height=&#8221;15px&#8221;]<span data-type=\"normal\" data-hover-icon-color=\"#759ba3\" class=\"qode_icon_shortcode  q_font_awsome_icon fa-lg  \" style=\"margin: 0px 22px 0px 0px; \"><a  itemprop=\"url\" href=\"https://www.facebook.com/vanAnouk/\" target=\"_blank\"><i class=\"qode_icon_font_awesome fa fa-facebook qode_icon_element\" style=\"font-size: 24px;color: #759ba3;\" ></i></a></span><span data-type=\"normal\" data-hover-icon-color=\"#759ba3\" class=\"qode_icon_shortcode  q_font_awsome_icon fa-lg  \" style=\"margin: 0px 22px 0px 0px; \"><a  itemprop=\"url\" href=\"https://www.instagram.com/vananouk1999/\" target=\"_blank\"><i class=\"qode_icon_font_awesome fa fa-instagram qode_icon_element\" style=\"font-size: 24px;color: #759ba3;\" ></i></a></span><span data-type=\"normal\" data-hover-icon-color=\"#759ba3\" class=\"qode_icon_shortcode  q_font_awsome_icon fa-lg  \" style=\"margin: 0px 22px 0px 0px; \"><a  itemprop=\"url\" href=\"https://www.linkedin.com/in/anouk-houter-30659011/\" target=\"_blank\"><i class=\"qode_icon_font_awesome fa fa-linkedin qode_icon_element\" style=\"font-size: 24px;color: #759ba3;\" ></i></a></span>[/qode_elements_holder_item][/qode_elements_holder]</div></div><div class=\"qode-sss-ms-right\"><div class=\"qode-sss-ms-section\"  style=\"text-align: left\">\n\t[qode_elements_holder number_of_columns=&#8221;two_columns&#8221; switch_to_one_column=&#8221;1300&#8243;][qode_elements_holder_item horizontal_alignment=&#8221;left&#8221; advanced_animations=&#8221;no&#8221; item_padding=&#8221;112px 93px 0px 85px&#8221; item_padding_1280_1440=&#8221;58px 50px 0px 47px&#8221; item_padding_1024_1280=&#8221;49px 14px 0px 31px&#8221; item_padding_768_1024=&#8221;28px 14px 59px 31px&#8221; item_padding_600_768=&#8221;32px 39px 0px 66px&#8221; item_padding_480=&#8221;14px 0px 30px 22px&#8221; custom_class=&#8221;eh-with-line&#8221;][vc_column_text css=&#8221;.vc_custom_1556807084749{margin-bottom: -1% !important;}&#8221;]</p>\n<h2 style=\"text-align: left;\"><span style=\"color: #ffffff;\">LOGO &amp; HUISSTIJL</span></h2>\n<p>[/vc_column_text]<div class=\"qode-advanced-image-gallery  qode-aig-grid-type qode-normal-space  qode-image-behavior-lightbox \">\n\t<div class=\"qode-aig-inner qode-outer-space qode-aig-grid qode-aig-two-columns\">\n\t\t\t\t\t<div class=\"qode-aig-image qode-item-space\">\n\t\t\t\t<div class=\"qode-aig-image-inner\">\n\t\t\t\t\t\t\t\t\t\t\t<a itemprop=\"image\" class=\"qode-aig-lightbox\" href=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl.png\" data-rel=\"prettyPhoto[image_gallery_pretty_photo-828]\" title=\"\">\n\t\t\t\t\t\t\t\t\t\t\t<img width=\"800\" height=\"645\" src=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl.png\" class=\"attachment-full size-full\" alt=\"\" srcset=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl.png 800w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl-300x242.png 300w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl-768x619.png 768w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl-700x564.png 700w\" sizes=\"(max-width: 800px) 100vw, 800px\" />\t\t\t\t\t\t<span class=\"aig-gallery-hover\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\t<div class=\"qode-aig-image qode-item-space\">\n\t\t\t\t<div class=\"qode-aig-image-inner\">\n\t\t\t\t\t\t\t\t\t\t\t<a itemprop=\"image\" class=\"qode-aig-lightbox\" href=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl2.png\" data-rel=\"prettyPhoto[image_gallery_pretty_photo-828]\" title=\"\">\n\t\t\t\t\t\t\t\t\t\t\t<img width=\"800\" height=\"645\" src=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl2.png\" class=\"attachment-full size-full\" alt=\"\" srcset=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl2.png 800w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl2-300x242.png 300w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl2-768x619.png 768w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl2-700x564.png 700w\" sizes=\"(max-width: 800px) 100vw, 800px\" />\t\t\t\t\t\t<span class=\"aig-gallery-hover\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\t<div class=\"qode-aig-image qode-item-space\">\n\t\t\t\t<div class=\"qode-aig-image-inner\">\n\t\t\t\t\t\t\t\t\t\t\t<a itemprop=\"image\" class=\"qode-aig-lightbox\" href=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl3.png\" data-rel=\"prettyPhoto[image_gallery_pretty_photo-828]\" title=\"\">\n\t\t\t\t\t\t\t\t\t\t\t<img width=\"800\" height=\"645\" src=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl3.png\" class=\"attachment-full size-full\" alt=\"\" srcset=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl3.png 800w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl3-300x242.png 300w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl3-768x619.png 768w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl3-700x564.png 700w\" sizes=\"(max-width: 800px) 100vw, 800px\" />\t\t\t\t\t\t<span class=\"aig-gallery-hover\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\t<div class=\"qode-aig-image qode-item-space\">\n\t\t\t\t<div class=\"qode-aig-image-inner\">\n\t\t\t\t\t\t\t\t\t\t\t<a itemprop=\"image\" class=\"qode-aig-lightbox\" href=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl4.png\" data-rel=\"prettyPhoto[image_gallery_pretty_photo-828]\" title=\"\">\n\t\t\t\t\t\t\t\t\t\t\t<img width=\"800\" height=\"645\" src=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl4.png\" class=\"attachment-full size-full\" alt=\"\" srcset=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl4.png 800w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl4-300x242.png 300w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl4-768x619.png 768w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl4-700x564.png 700w\" sizes=\"(max-width: 800px) 100vw, 800px\" />\t\t\t\t\t\t<span class=\"aig-gallery-hover\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\t<div class=\"qode-aig-image qode-item-space\">\n\t\t\t\t<div class=\"qode-aig-image-inner\">\n\t\t\t\t\t\t\t\t\t\t\t<a itemprop=\"image\" class=\"qode-aig-lightbox\" href=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl5.png\" data-rel=\"prettyPhoto[image_gallery_pretty_photo-828]\" title=\"\">\n\t\t\t\t\t\t\t\t\t\t\t<img width=\"800\" height=\"645\" src=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl5.png\" class=\"attachment-full size-full\" alt=\"\" srcset=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl5.png 800w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl5-300x242.png 300w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl5-768x619.png 768w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl5-700x564.png 700w\" sizes=\"(max-width: 800px) 100vw, 800px\" />\t\t\t\t\t\t<span class=\"aig-gallery-hover\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\t<div class=\"qode-aig-image qode-item-space\">\n\t\t\t\t<div class=\"qode-aig-image-inner\">\n\t\t\t\t\t\t\t\t\t\t\t<a itemprop=\"image\" class=\"qode-aig-lightbox\" href=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl6.png\" data-rel=\"prettyPhoto[image_gallery_pretty_photo-828]\" title=\"\">\n\t\t\t\t\t\t\t\t\t\t\t<img width=\"800\" height=\"645\" src=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl6.png\" class=\"attachment-full size-full\" alt=\"\" srcset=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl6.png 800w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl6-300x242.png 300w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl6-768x619.png 768w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl6-700x564.png 700w\" sizes=\"(max-width: 800px) 100vw, 800px\" />\t\t\t\t\t\t<span class=\"aig-gallery-hover\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\t<div class=\"qode-aig-image qode-item-space\">\n\t\t\t\t<div class=\"qode-aig-image-inner\">\n\t\t\t\t\t\t\t\t\t\t\t<a itemprop=\"image\" class=\"qode-aig-lightbox\" href=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl8.png\" data-rel=\"prettyPhoto[image_gallery_pretty_photo-828]\" title=\"\">\n\t\t\t\t\t\t\t\t\t\t\t<img width=\"800\" height=\"645\" src=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl8.png\" class=\"attachment-full size-full\" alt=\"\" srcset=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl8.png 800w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl8-300x242.png 300w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl8-768x619.png 768w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl8-700x564.png 700w\" sizes=\"(max-width: 800px) 100vw, 800px\" />\t\t\t\t\t\t<span class=\"aig-gallery-hover\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\t<div class=\"qode-aig-image qode-item-space\">\n\t\t\t\t<div class=\"qode-aig-image-inner\">\n\t\t\t\t\t\t\t\t\t\t\t<a itemprop=\"image\" class=\"qode-aig-lightbox\" href=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl9.png\" data-rel=\"prettyPhoto[image_gallery_pretty_photo-828]\" title=\"\">\n\t\t\t\t\t\t\t\t\t\t\t<img width=\"800\" height=\"645\" src=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl9.png\" class=\"attachment-full size-full\" alt=\"\" srcset=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl9.png 800w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl9-300x242.png 300w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl9-768x619.png 768w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl9-700x564.png 700w\" sizes=\"(max-width: 800px) 100vw, 800px\" />\t\t\t\t\t\t<span class=\"aig-gallery-hover\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\t<div class=\"qode-aig-image qode-item-space\">\n\t\t\t\t<div class=\"qode-aig-image-inner\">\n\t\t\t\t\t\t\t\t\t\t\t<a itemprop=\"image\" class=\"qode-aig-lightbox\" href=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl10.png\" data-rel=\"prettyPhoto[image_gallery_pretty_photo-828]\" title=\"\">\n\t\t\t\t\t\t\t\t\t\t\t<img width=\"800\" height=\"645\" src=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl10.png\" class=\"attachment-full size-full\" alt=\"\" srcset=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl10.png 800w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl10-300x242.png 300w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl10-768x619.png 768w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl10-700x564.png 700w\" sizes=\"(max-width: 800px) 100vw, 800px\" />\t\t\t\t\t\t<span class=\"aig-gallery-hover\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\t<div class=\"qode-aig-image qode-item-space\">\n\t\t\t\t<div class=\"qode-aig-image-inner\">\n\t\t\t\t\t\t\t\t\t\t\t<a itemprop=\"image\" class=\"qode-aig-lightbox\" href=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl7.png\" data-rel=\"prettyPhoto[image_gallery_pretty_photo-828]\" title=\"\">\n\t\t\t\t\t\t\t\t\t\t\t<img width=\"800\" height=\"645\" src=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl7.png\" class=\"attachment-full size-full\" alt=\"\" srcset=\"https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl7.png 800w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl7-300x242.png 300w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl7-768x619.png 768w, https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-huisstijl7-700x564.png 700w\" sizes=\"(max-width: 800px) 100vw, 800px\" />\t\t\t\t\t\t<span class=\"aig-gallery-hover\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t</div>\n</div>[vc_empty_space]<a  itemprop=\"url\" href=\"http://vananouk.nl/Educatieve%20uitgaven/\" target=\"_self\"  class=\"qbutton  default\" style=\"\">Educatieve uitgaven</a>[/qode_elements_holder_item][/qode_elements_holder]</div></div></div>[/vc_column][/vc_row]</p>\n",
+   "protected": false
+  },
+  "excerpt": {
+   "rendered": "<p>[vc_row css_animation=&#8221;&#8221; row_type=&#8221;row&#8221; use_row_as_full_screen_section=&#8221;no&#8221; type=&#8221;full_width&#8221; angled_section=&#8221;no&#8221; text_align=&#8221;left&#8221; background_image_as_pattern=&#8221;without_pattern&#8221;][vc_column][/vc_column][/vc_row]</p>\n",
+   "protected": false
+  },
+  "author": 2,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "full_width.php",
+  "meta": [],
+  "_links": {
+   "self": [
+    {
+     "href": "https://vananouk.nl/wp-json/wp/v2/pages/158"
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://vananouk.nl/wp-json/wp/v2/pages"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://vananouk.nl/wp-json/wp/v2/types/page"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://vananouk.nl/wp-json/wp/v2/users/2"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://vananouk.nl/wp-json/wp/v2/comments?post=158"
+    }
+   ],
+   "version-history": [
+    {
+     "count": 30,
+     "href": "https://vananouk.nl/wp-json/wp/v2/pages/158/revisions"
+    }
+   ],
+   "predecessor-version": [
+    {
+     "id": 421,
+     "href": "https://vananouk.nl/wp-json/wp/v2/pages/158/revisions/421"
+    }
+   ],
+   "wp:attachment": [
+    {
+     "href": "https://vananouk.nl/wp-json/wp/v2/media?parent=158"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 2,
+  "date": "2019-03-13T13:15:44",
+  "date_gmt": "2019-03-13T13:15:44",
+  "guid": {
+   "rendered": "http://vananouk.nl/?page_id=2"
+  },
+  "modified": "2019-03-13T13:15:44",
+  "modified_gmt": "2019-03-13T13:15:44",
+  "slug": "voorbeeld-pagina",
+  "status": "publish",
+  "type": "page",
+  "link": "https://vananouk.nl/voorbeeld-pagina/",
+  "title": {
+   "rendered": "Voorbeeld pagina"
+  },
+  "content": {
+   "rendered": "\n<p>Dit is een voorbeeldpagina. Het is anders dan een blog bericht omdat het op één plek blijft en tevoorschijn komt in je site navigatie (in de meeste thema&#8217;s). De meeste mensen starten met een Over pagina dat hen voorstelt aan potentiële site bezoekers. Het zou iets als dit kunnen zeggen:</p>\n\n\n\n<blockquote class=\"wp-block-quote\"><p>Hoi daar! Ik ben een fietskoerier in het dagelijks leven en een beginnende acteur in de avonduren. Ik leef in Los Angeles, heb een leuke hond genaamd Jack en ik hou van pi&#241;a coladas. (En overvallen worden door de regen.)</p></blockquote>\n\n\n\n<p>&#8230;of zoiets als dit:</p>\n\n\n\n<blockquote class=\"wp-block-quote\"><p>De XYZ Doohickey Company is opgericht in 1971 en heeft sindsdien kwalitatieve   doohickeys aan het publiek geleverd. Gevestigd in Gotham City, XYZ heeft meer dan 2000 mensen in dienst en doen allemaal fantastische dingen voor de community in Gotham.</p></blockquote>\n\n\n\n<p>Als nieuwe WordPress gebruiker kan je naar <a href=\"http://vananouk.nl/wp-admin/\">je dashboard</a> gaan om deze pagina te verwijderen en nieuwe pagina&#8217;s toe te voegen voor je inhoud. Veel plezier!</p>\n",
+   "protected": false
+  },
+  "excerpt": {
+   "rendered": "<p>Dit is een voorbeeldpagina. Het is anders dan een blog bericht omdat het op één plek blijft en tevoorschijn komt in je site navigatie (in de meeste thema&#8217;s). De meeste mensen starten met een Over pagina dat hen voorstelt aan potentiële site bezoekers. Het zou&#8230;</p>\n",
+   "protected": false
+  },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "open",
+  "template": "",
+  "meta": [],
+  "_links": {
+   "self": [
+    {
+     "href": "https://vananouk.nl/wp-json/wp/v2/pages/2"
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://vananouk.nl/wp-json/wp/v2/pages"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://vananouk.nl/wp-json/wp/v2/types/page"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://vananouk.nl/wp-json/wp/v2/users/1"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://vananouk.nl/wp-json/wp/v2/comments?post=2"
+    }
+   ],
+   "version-history": [
+    {
+     "count": 0,
+     "href": "https://vananouk.nl/wp-json/wp/v2/pages/2/revisions"
+    }
+   ],
+   "wp:attachment": [
+    {
+     "href": "https://vananouk.nl/wp-json/wp/v2/media?parent=2"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 99,
+  "date": "2018-03-22T15:38:25",
+  "date_gmt": "2018-03-22T15:38:25",
+  "guid": {
+   "rendered": "http://bridge197.qodeinteractive.com/?page_id=99"
+  },
+  "modified": "2018-03-22T15:38:25",
+  "modified_gmt": "2018-03-22T15:38:25",
+  "slug": "99-2",
+  "status": "publish",
+  "type": "page",
+  "link": "https://vananouk.nl/99-2/",
+  "title": {
+   "rendered": ""
+  },
+  "content": {
+   "rendered": "<p>[vc_row css_animation=&#8221;&#8221; row_type=&#8221;row&#8221; use_row_as_full_screen_section=&#8221;no&#8221; type=&#8221;full_width&#8221; angled_section=&#8221;no&#8221; text_align=&#8221;left&#8221; background_image_as_pattern=&#8221;without_pattern&#8221; css=&#8221;.vc_custom_1521733144222{background-color: #8224e3 !important;}&#8221; z_index=&#8221;&#8221;][vc_column]<span class='q_social_icon_holder normal_social' data-color=#ffffff data-hover-color=#212121><a itemprop='url' href='http://www.facebook.com' target='_blank'><i class=\"qode_icon_font_awesome fa fa-facebook-f  simple_social\" style=\"color: #ffffff;margin: 0px 6px 0px 0px;font-size: 16px;\" ></i></a></span><span class='q_social_icon_holder normal_social' data-color=#ffffff data-hover-color=#212121><a itemprop='url' href='http://www.instagram.com' target='_blank'><i class=\"qode_icon_font_awesome fa fa-instagram  simple_social\" style=\"color: #ffffff;margin: 0px 6px 0px 0px;font-size: 16px;\" ></i></a></span><span class='q_social_icon_holder normal_social' data-color=#ffffff data-hover-color=#212121><a itemprop='url' href='http://www.twitter.com' target='_blank'><i class=\"qode_icon_font_awesome fa fa-twitter  simple_social\" style=\"color: #ffffff;margin: 0px 6px 0px 0px;font-size: 16px;\" ></i></a></span><span class='q_social_icon_holder normal_social' data-color=#ffffff data-hover-color=#212121><a itemprop='url' href='https://plus.google.com/discover' target='_blank'><i class=\"qode_icon_font_awesome fa fa-google-plus  simple_social\" style=\"color: #ffffff;font-size: 16px;\" ></i></a></span>[/vc_column][/vc_row]</p>\n",
+   "protected": false
+  },
+  "excerpt": {
+   "rendered": "<p>[vc_row css_animation=&#8221;&#8221; row_type=&#8221;row&#8221; use_row_as_full_screen_section=&#8221;no&#8221; type=&#8221;full_width&#8221; angled_section=&#8221;no&#8221; text_align=&#8221;left&#8221; background_image_as_pattern=&#8221;without_pattern&#8221; css=&#8221;.vc_custom_1521733144222{background-color: #8224e3 !important;}&#8221; z_index=&#8221;&#8221;][vc_column][/vc_column][/vc_row]</p>\n",
+   "protected": false
+  },
+  "author": 2,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "_links": {
+   "self": [
+    {
+     "href": "https://vananouk.nl/wp-json/wp/v2/pages/99"
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://vananouk.nl/wp-json/wp/v2/pages"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://vananouk.nl/wp-json/wp/v2/types/page"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://vananouk.nl/wp-json/wp/v2/users/2"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://vananouk.nl/wp-json/wp/v2/comments?post=99"
+    }
+   ],
+   "version-history": [
+    {
+     "count": 0,
+     "href": "https://vananouk.nl/wp-json/wp/v2/pages/99/revisions"
+    }
+   ],
+   "wp:attachment": [
+    {
+     "href": "https://vananouk.nl/wp-json/wp/v2/media?parent=99"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 89,
+  "date": "2018-03-22T13:57:07",
+  "date_gmt": "2018-03-22T13:57:07",
+  "guid": {
+   "rendered": "http://bridge197.qodeinteractive.com/?page_id=89"
+  },
+  "modified": "2019-04-30T15:51:31",
+  "modified_gmt": "2019-04-30T15:51:31",
+  "slug": "home",
+  "status": "publish",
+  "type": "page",
+  "link": "https://vananouk.nl/",
+  "title": {
+   "rendered": "Home"
+  },
+  "content": {
+   "rendered": "<p>[vc_row css_animation=&#8221;&#8221; row_type=&#8221;row&#8221; use_row_as_full_screen_section=&#8221;no&#8221; type=&#8221;full_width&#8221; angled_section=&#8221;no&#8221; text_align=&#8221;left&#8221; background_image_as_pattern=&#8221;without_pattern&#8221;][vc_column]<link href=\"https://fonts.googleapis.com/css?family=Assistant:600%7COpen+Sans:400\" rel=\"stylesheet\" property=\"stylesheet\" type=\"text/css\" media=\"all\">\n<div id=\"rev_slider_2_1_wrapper\" class=\"rev_slider_wrapper fullscreen-container\" data-source=\"gallery\" style=\"background:transparent;padding:0px;\">\n<!-- START REVOLUTION SLIDER 5.4.8.3 fullscreen mode -->\n\t<div id=\"rev_slider_2_1\" class=\"rev_slider fullscreenbanner\" style=\"display:none;\" data-version=\"5.4.8.3\">\n<ul>\t<!-- SLIDE  -->\n\t<li data-index=\"rs-2\" data-transition=\"fade\" data-slotamount=\"default\" data-hideafterloop=\"0\" data-hideslideonmobile=\"off\"  data-easein=\"default\" data-easeout=\"default\" data-masterspeed=\"300\"  data-rotate=\"0\"  data-saveperformance=\"off\"  data-title=\"Slide\" data-param1=\"\" data-param2=\"\" data-param3=\"\" data-param4=\"\" data-param5=\"\" data-param6=\"\" data-param7=\"\" data-param8=\"\" data-param9=\"\" data-param10=\"\" data-description=\"\">\n\t\t<!-- MAIN IMAGE -->\n\t\t<img src=\"https://vananouk.nl/wp-content/uploads/2019/04/Kleurvlak-half-2.png\"  alt=\"\" title=\"Kleurvlak half-2\"  width=\"1900\" height=\"1070\" data-bgposition=\"center center\" data-bgfit=\"cover\" data-bgrepeat=\"no-repeat\" class=\"rev-slidebg\" data-no-retina>\n\t\t<!-- LAYERS -->\n\n\t\t<!-- LAYER NR. 1 -->\n\t\t<div class=\"tp-caption  \" \n\t\t\t id=\"slide-2-layer-2\" \n\t\t\t data-x=\"['right','right','right','right']\" data-hoffset=\"['-10','-10','-10','-58']\" \n\t\t\t data-y=\"['bottom','bottom','bottom','bottom']\" data-voffset=\"['0','0','0','0']\" \n\t\t\t\t\t\tdata-width=\"none\"\n\t\t\tdata-height=\"none\"\n\t\t\tdata-whitespace=\"nowrap\"\n \n\t\t\tdata-type=\"image\" \n\t\t\tdata-basealign=\"slide\" \n\t\t\tdata-responsive_offset=\"off\" \n\t\t\tdata-responsive=\"off\"\n\t\t\tdata-frames='[{\"delay\":10,\"speed\":800,\"frame\":\"0\",\"from\":\"y:bottom;\",\"to\":\"o:1;\",\"ease\":\"Power3.easeOut\"},{\"delay\":\"wait\",\"speed\":300,\"frame\":\"999\",\"to\":\"opacity:0;\",\"ease\":\"Power3.easeInOut\"}]'\n\t\t\tdata-textAlign=\"['inherit','inherit','inherit','inherit']\"\n\t\t\tdata-paddingtop=\"[0,0,0,0]\"\n\t\t\tdata-paddingright=\"[0,0,0,0]\"\n\t\t\tdata-paddingbottom=\"[0,0,0,0]\"\n\t\t\tdata-paddingleft=\"[0,0,0,0]\"\n\n\t\t\tstyle=\"z-index: 5;\"><img src=\"https://vananouk.nl/wp-content/uploads/2019/03/Home.png\" alt=\"\" data-ww=\"['1177px','1177px','1177px','873px']\" data-hh=\"['949px','949px','949px','704px']\" width=\"1177\" height=\"949\" data-no-retina> </div>\n\n\t\t<!-- LAYER NR. 2 -->\n\t\t<div class=\"tp-caption  \" \n\t\t\t id=\"slide-2-layer-3\" \n\t\t\t data-x=\"['left','left','left','left']\" data-hoffset=\"['205','62','42','22']\" \n\t\t\t data-y=\"['top','top','top','top']\" data-voffset=\"['321','112','182','92']\" \n\t\t\t\t\t\tdata-fontsize=\"['60','76','65','32']\"\n\t\t\tdata-lineheight=\"['60','93','77','47']\"\n\t\t\tdata-width=\"['878','878','826','386']\"\n\t\t\tdata-height=\"['331','331','none','none']\"\n\t\t\tdata-whitespace=\"normal\"\n \n\t\t\tdata-type=\"text\" \n\t\t\tdata-basealign=\"slide\" \n\t\t\tdata-responsive_offset=\"off\" \n\t\t\tdata-responsive=\"off\"\n\t\t\tdata-frames='[{\"delay\":200,\"speed\":800,\"frame\":\"0\",\"from\":\"x:left;\",\"to\":\"o:1;\",\"ease\":\"Power3.easeOut\"},{\"delay\":\"wait\",\"speed\":300,\"frame\":\"999\",\"to\":\"opacity:0;\",\"ease\":\"Power3.easeInOut\"}]'\n\t\t\tdata-textAlign=\"['inherit','inherit','inherit','inherit']\"\n\t\t\tdata-paddingtop=\"[0,0,0,0]\"\n\t\t\tdata-paddingright=\"[0,0,0,0]\"\n\t\t\tdata-paddingbottom=\"[0,0,0,0]\"\n\t\t\tdata-paddingleft=\"[0,0,0,0]\"\n\n\t\t\tstyle=\"z-index: 6; min-width: 878px; max-width: 878px; max-width: 331px; max-width: 331px; white-space: normal; font-size: 60px; line-height: 60px; font-weight: 600; color: #000000; letter-spacing: 0px;font-family:Assistant;\">Don't stop until <br>you're proud </div>\n\n\t\t<!-- LAYER NR. 3 -->\n\t\t<div class=\"tp-caption  \" \n\t\t\t id=\"slide-2-layer-8\" \n\t\t\t data-x=\"['left','left','left','left']\" data-hoffset=\"['75','75','75','20']\" \n\t\t\t data-y=\"['bottom','bottom','bottom','bottom']\" data-voffset=\"['-94','-94','-94','-55']\" \n\t\t\t\t\t\tdata-width=\"1645\"\n\t\t\tdata-height=\"178\"\n\t\t\tdata-whitespace=\"normal\"\n \n\t\t\tdata-type=\"text\" \n\t\t\tdata-basealign=\"slide\" \n\t\t\tdata-responsive_offset=\"off\" \n\t\t\tdata-responsive=\"off\"\n\t\t\tdata-frames='[{\"delay\":900,\"speed\":800,\"frame\":\"0\",\"from\":\"x:left;\",\"to\":\"o:1;\",\"ease\":\"Power3.easeOut\"},{\"delay\":\"wait\",\"speed\":300,\"frame\":\"999\",\"to\":\"opacity:0;\",\"ease\":\"Power3.easeInOut\"}]'\n\t\t\tdata-textAlign=\"['inherit','inherit','inherit','inherit']\"\n\t\t\tdata-paddingtop=\"[0,0,0,0]\"\n\t\t\tdata-paddingright=\"[0,0,0,0]\"\n\t\t\tdata-paddingbottom=\"[0,0,0,0]\"\n\t\t\tdata-paddingleft=\"[0,0,0,0]\"\n\n\t\t\tstyle=\"z-index: 7; min-width: 1645px; max-width: 1645px; max-width: 178px; max-width: 178px; white-space: normal; font-size: 20px; line-height: 22px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Open Sans;\"><span class='q_social_icon_holder normal_social' data-color=#ffffff data-hover-color=#ffffff><a itemprop='url' href='https://www.facebook.com/vanAnouk/' target='_blank'><i class=\"qode_icon_font_awesome fa fa-facebook-f  simple_social\" style=\"color: #ffffff;margin: 0px 6px 0px 0px;font-size: 24px;\" ></i></a></span><span class='q_social_icon_holder normal_social' data-color=#ffffff data-hover-color=#ffffff><a itemprop='url' href='https://www.instagram.com/vananouk1999/' target='_blank'><i class=\"qode_icon_font_awesome fa fa-instagram  simple_social\" style=\"color: #ffffff;margin: 0px 6px 0px 0px;font-size: 24px;\" ></i></a></span><span class='q_social_icon_holder normal_social' data-color=#ffffff data-hover-color=#ffffff><a itemprop='url' href='https://www.linkedin.com/in/anouk-houter-30659011/' target='_blank'><i class=\"qode_icon_font_awesome fa fa-linkedin  simple_social\" style=\"color: #ffffff;margin: 0px 6px 0px 0px;font-size: 24px;\" ></i></a></span>\n\n </div>\n\n\t\t<!-- LAYER NR. 4 -->\n\t\t<div class=\"tp-caption   tp-resizeme\" \n\t\t\t id=\"slide-2-layer-9\" \n\t\t\t data-x=\"['left','left','left','left']\" data-hoffset=\"['100','100','100','100']\" \n\t\t\t data-y=\"['top','top','top','top']\" data-voffset=\"['100','100','100','100']\" \n\t\t\t\t\t\tdata-width=\"none\"\n\t\t\tdata-height=\"none\"\n\t\t\tdata-whitespace=\"nowrap\"\n \n\t\t\tdata-type=\"text\" \n\t\t\tdata-responsive_offset=\"on\" \n\n\t\t\tdata-frames='[{\"delay\":10,\"speed\":300,\"frame\":\"0\",\"from\":\"opacity:0;\",\"to\":\"o:1;\",\"ease\":\"Power3.easeInOut\"},{\"delay\":\"wait\",\"speed\":300,\"frame\":\"999\",\"to\":\"opacity:0;\",\"ease\":\"Power3.easeInOut\"}]'\n\t\t\tdata-textAlign=\"['inherit','inherit','inherit','inherit']\"\n\t\t\tdata-paddingtop=\"[0,0,0,0]\"\n\t\t\tdata-paddingright=\"[0,0,0,0]\"\n\t\t\tdata-paddingbottom=\"[0,0,0,0]\"\n\t\t\tdata-paddingleft=\"[0,0,0,0]\"\n\n\t\t\tstyle=\"z-index: 8; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Open Sans;\"> </div>\n\t</li>\n</ul>\n<div class=\"tp-bannertimer tp-bottom\" style=\"visibility: hidden !important;\"></div>\t</div>\n<script>var htmlDiv = document.getElementById(\"rs-plugin-settings-inline-css\"); var htmlDivCss=\"\";\r\n\t\t\t\tif(htmlDiv) {\r\n\t\t\t\t\thtmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;\r\n\t\t\t\t}else{\r\n\t\t\t\t\tvar htmlDiv = document.createElement(\"div\");\r\n\t\t\t\t\thtmlDiv.innerHTML = \"<style>\" + htmlDivCss + \"</style>\";\r\n\t\t\t\t\tdocument.getElementsByTagName(\"head\")[0].appendChild(htmlDiv.childNodes[0]);\r\n\t\t\t\t}\r\n\t\t\t</script>\n\t\t<script type=\"text/javascript\">\r\nif (setREVStartSize!==undefined) setREVStartSize(\r\n\t{c: '#rev_slider_2_1', responsiveLevels: [1920,1441,850,480], gridwidth: [1240,1024,778,480], gridheight: [868,768,960,720], sliderLayout: 'fullscreen', fullScreenAutoWidth:'off', fullScreenAlignForce:'off', fullScreenOffsetContainer:'', fullScreenOffset:''});\r\n\t\t\t\r\nvar revapi2,\r\n\ttpj;\t\r\n(function() {\t\t\t\r\n\tif (!/loaded|interactive|complete/.test(document.readyState)) document.addEventListener(\"DOMContentLoaded\",onLoad); else onLoad();\t\r\n\tfunction onLoad() {\t\t\t\t\r\n\t\tif (tpj===undefined) { tpj = jQuery; if(\"off\" == \"on\") tpj.noConflict();}\r\n\tif(tpj(\"#rev_slider_2_1\").revolution == undefined){\n\t\trevslider_showDoubleJqueryError(\"#rev_slider_2_1\");\n\t}else{\n\t\trevapi2 = tpj(\"#rev_slider_2_1\").show().revolution({\n\t\t\tsliderType:\"standard\",\n\t\t\tjsFileLocation:\"//vananouk.nl/wp-content/plugins/revslider/public/assets/js/\",\n\t\t\tsliderLayout:\"fullscreen\",\n\t\t\tdottedOverlay:\"none\",\n\t\t\tdelay:3000,\n\t\t\tnavigation: {\n\t\t\t\tonHoverStop:\"off\",\n\t\t\t},\n\t\t\tresponsiveLevels:[1920,1441,850,480],\n\t\t\tvisibilityLevels:[1920,1441,850,480],\n\t\t\tgridwidth:[1240,1024,778,480],\n\t\t\tgridheight:[868,768,960,720],\n\t\t\tlazyType:\"none\",\n\t\t\tshadow:0,\n\t\t\tspinner:\"off\",\n\t\t\tstopLoop:\"off\",\n\t\t\tstopAfterLoops:-1,\n\t\t\tstopAtSlide:-1,\n\t\t\tshuffle:\"off\",\n\t\t\tautoHeight:\"off\",\n\t\t\tfullScreenAutoWidth:\"off\",\n\t\t\tfullScreenAlignForce:\"off\",\n\t\t\tfullScreenOffsetContainer: \"\",\n\t\t\tfullScreenOffset: \"\",\n\t\t\tdisableProgressBar:\"on\",\n\t\t\thideThumbsOnMobile:\"off\",\n\t\t\thideSliderAtLimit:0,\n\t\t\thideCaptionAtLimit:0,\n\t\t\thideAllCaptionAtLilmit:0,\n\t\t\tdebugMode:false,\n\t\t\tfallbacks: {\n\t\t\t\tsimplifyAll:\"off\",\n\t\t\t\tnextSlideOnWindowFocus:\"off\",\n\t\t\t\tdisableFocusListener:false,\n\t\t\t}\n\t\t});\n\t}; /* END OF revapi call */\n\t\n }; /* END OF ON LOAD FUNCTION */\r\n}()); /* END OF WRAPPING FUNCTION */\r\n</script>\r\n\t\t</div><!-- END REVOLUTION SLIDER -->[/vc_column][/vc_row]</p>\n",
+   "protected": false
+  },
+  "excerpt": {
+   "rendered": "<p>[vc_row css_animation=&#8221;&#8221; row_type=&#8221;row&#8221; use_row_as_full_screen_section=&#8221;no&#8221; type=&#8221;full_width&#8221; angled_section=&#8221;no&#8221; text_align=&#8221;left&#8221; background_image_as_pattern=&#8221;without_pattern&#8221;][vc_column][/vc_column][/vc_row]</p>\n",
+   "protected": false
+  },
+  "author": 2,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "full_width.php",
+  "meta": [],
+  "_links": {
+   "self": [
+    {
+     "href": "https://vananouk.nl/wp-json/wp/v2/pages/89"
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://vananouk.nl/wp-json/wp/v2/pages"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://vananouk.nl/wp-json/wp/v2/types/page"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://vananouk.nl/wp-json/wp/v2/users/2"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://vananouk.nl/wp-json/wp/v2/comments?post=89"
+    }
+   ],
+   "version-history": [
+    {
+     "count": 2,
+     "href": "https://vananouk.nl/wp-json/wp/v2/pages/89/revisions"
+    }
+   ],
+   "predecessor-version": [
+    {
+     "id": 375,
+     "href": "https://vananouk.nl/wp-json/wp/v2/pages/89/revisions/375"
+    }
+   ],
+   "wp:attachment": [
+    {
+     "href": "https://vananouk.nl/wp-json/wp/v2/media?parent=89"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 67,
+  "date": "2018-03-22T12:45:09",
+  "date_gmt": "2018-03-22T12:45:09",
+  "guid": {
+   "rendered": "http://bridge197.qodeinteractive.com/?page_id=67"
+  },
+  "modified": "2019-05-20T11:31:06",
+  "modified_gmt": "2019-05-20T11:31:06",
+  "slug": "portfolio",
+  "status": "publish",
+  "type": "page",
+  "link": "https://vananouk.nl/portfolio/",
+  "title": {
+   "rendered": "Portfolio"
+  },
+  "content": {
+   "rendered": "<p>[vc_row css_animation=&#8221;&#8221; row_type=&#8221;row&#8221; use_row_as_full_screen_section=&#8221;no&#8221; type=&#8221;full_width&#8221; angled_section=&#8221;no&#8221; text_align=&#8221;left&#8221; background_image_as_pattern=&#8221;without_pattern&#8221;][vc_column]<div class=\"qode-split-scrolling-section\">\n    <div class=\"qode-sss-ms-left\"><div class=\"qode-sss-ms-section\"  style=\"background-image: url(https://vananouk.nl/wp-content/uploads/2019/03/Portfolio-1.png);text-align: left\">\n\t[qode_elements_holder number_of_columns=&#8221;one_column&#8221;][qode_elements_holder_item advanced_animations=&#8221;no&#8221; item_padding=&#8221;90.2vh 10px 0px 75px&#8221; item_padding_1280_1440=&#8221;87vh 10px 0px 41px&#8221; item_padding_1024_1280=&#8221;87vh 10px 0px 41px&#8221; item_padding_768_1024=&#8221;85.2vh 10px 49px 41px&#8221; item_padding_600_768=&#8221;81.2vh 10px 28px 41px&#8221; item_padding_480=&#8221;72.2vh 10px 21px 41px&#8221;][vc_empty_space height=&#8221;15px&#8221;]<span data-type=\"normal\" data-hover-icon-color=\"#ffffff\" class=\"qode_icon_shortcode  q_font_awsome_icon fa-lg  \" style=\"margin: 0px 22px 0px 0px; \"><a  itemprop=\"url\" href=\"https://www.facebook.com/vanAnouk/\" target=\"_blank\"><i class=\"qode_icon_font_awesome fa fa-facebook qode_icon_element\" style=\"font-size: 24px;color: #ffffff;\" ></i></a></span><span data-type=\"normal\" data-hover-icon-color=\"#ffffff\" class=\"qode_icon_shortcode  q_font_awsome_icon fa-lg  \" style=\"margin: 0px 22px 0px 0px; \"><a  itemprop=\"url\" href=\"https://www.instagram.com/vananouk1999/\" target=\"_blank\"><i class=\"qode_icon_font_awesome fa fa-instagram qode_icon_element\" style=\"font-size: 24px;color: #ffffff;\" ></i></a></span><span data-type=\"normal\" data-hover-icon-color=\"#ffffff\" class=\"qode_icon_shortcode  q_font_awsome_icon fa-lg  \" style=\"margin: 0px 22px 0px 0px; \"><a  itemprop=\"url\" href=\"https://www.linkedin.com/in/anouk-houter-30659011/\" target=\"_blank\"><i class=\"qode_icon_font_awesome fa fa-linkedin qode_icon_element\" style=\"font-size: 24px;color: #ffffff;\" ></i></a></span>[/qode_elements_holder_item][/qode_elements_holder]</div></div><div class=\"qode-sss-ms-right\"><div class=\"qode-sss-ms-section\"  style=\"background-color: #ffffff;text-align: left\">\n\t[qode_elements_holder number_of_columns=&#8221;two_columns&#8221; switch_to_one_column=&#8221;1300&#8243;][qode_elements_holder_item advanced_animations=&#8221;no&#8221; item_padding=&#8221;112px 93px 0px 85px&#8221; item_padding_1280_1440=&#8221;58px 50px 0px 47px&#8221; item_padding_1024_1280=&#8221;49px 14px 0px 31px&#8221; item_padding_768_1024=&#8221;28px 14px 59px 31px&#8221; item_padding_600_768=&#8221;32px 39px 0px 66px&#8221; item_padding_480=&#8221;14px 0px 30px 22px&#8221; custom_class=&#8221;eh-with-line&#8221;][vc_column_text css=&#8221;.vc_custom_1556807158011{margin-bottom: -2% !important;}&#8221;]</p>\n<h2>PORTFOLIO</h2>\n<p>[/vc_column_text]<div class=\"qode-advanced-image-gallery  qode-aig-grid-type qode-normal-space  qode-image-behavior-custom-link \">\n\t<div class=\"qode-aig-inner qode-outer-space qode-aig-grid qode-aig-two-columns\">\n\t\t\t\t\t<div class=\"qode-aig-image qode-item-space\">\n\t\t\t\t<div class=\"qode-aig-image-inner\">\n\t\t\t\t\t\t\t\t\t\t\t<a itemprop=\"url\" class=\"qode-aig-custom-link\" href=\"http://vananouk.nl/logo-en-huisstijl/\" target=\"_self\" title=\"Huisstijl 00\">\n\t\t\t\t\t\t\t\t\t\t\t<img width=\"800\" height=\"645\" src=\"https://vananouk.nl/wp-content/uploads/2019/03/Huisstijl-00.png\" class=\"attachment-full size-full\" alt=\"\" srcset=\"https://vananouk.nl/wp-content/uploads/2019/03/Huisstijl-00.png 800w, https://vananouk.nl/wp-content/uploads/2019/03/Huisstijl-00-300x242.png 300w, https://vananouk.nl/wp-content/uploads/2019/03/Huisstijl-00-768x619.png 768w, https://vananouk.nl/wp-content/uploads/2019/03/Huisstijl-00-700x564.png 700w\" sizes=\"(max-width: 800px) 100vw, 800px\" />\t\t\t\t\t\t<span class=\"aig-gallery-hover\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\t<div class=\"qode-aig-image qode-item-space\">\n\t\t\t\t<div class=\"qode-aig-image-inner\">\n\t\t\t\t\t\t\t\t\t\t\t<a itemprop=\"url\" class=\"qode-aig-custom-link\" href=\"http://vananouk.nl/Educatieve%20uitgaven\" target=\"_self\" title=\"Educatief 00\">\n\t\t\t\t\t\t\t\t\t\t\t<img width=\"800\" height=\"645\" src=\"https://vananouk.nl/wp-content/uploads/2019/03/Educatief-00.png\" class=\"attachment-full size-full\" alt=\"\" srcset=\"https://vananouk.nl/wp-content/uploads/2019/03/Educatief-00.png 800w, https://vananouk.nl/wp-content/uploads/2019/03/Educatief-00-300x242.png 300w, https://vananouk.nl/wp-content/uploads/2019/03/Educatief-00-768x619.png 768w, https://vananouk.nl/wp-content/uploads/2019/03/Educatief-00-700x564.png 700w\" sizes=\"(max-width: 800px) 100vw, 800px\" />\t\t\t\t\t\t<span class=\"aig-gallery-hover\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\t<div class=\"qode-aig-image qode-item-space\">\n\t\t\t\t<div class=\"qode-aig-image-inner\">\n\t\t\t\t\t\t\t\t\t\t\t<a itemprop=\"url\" class=\"qode-aig-custom-link\" href=\"http://vananouk.nl/boeken\" target=\"_self\" title=\"Boeken\">\n\t\t\t\t\t\t\t\t\t\t\t<img width=\"800\" height=\"645\" src=\"https://vananouk.nl/wp-content/uploads/2019/03/Boeken.png\" class=\"attachment-full size-full\" alt=\"\" srcset=\"https://vananouk.nl/wp-content/uploads/2019/03/Boeken.png 800w, https://vananouk.nl/wp-content/uploads/2019/03/Boeken-300x242.png 300w, https://vananouk.nl/wp-content/uploads/2019/03/Boeken-768x619.png 768w, https://vananouk.nl/wp-content/uploads/2019/03/Boeken-700x564.png 700w\" sizes=\"(max-width: 800px) 100vw, 800px\" />\t\t\t\t\t\t<span class=\"aig-gallery-hover\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\t<div class=\"qode-aig-image qode-item-space\">\n\t\t\t\t<div class=\"qode-aig-image-inner\">\n\t\t\t\t\t\t\t\t\t\t\t<a itemprop=\"url\" class=\"qode-aig-custom-link\" href=\"http://vananouk.nl/magazines\" target=\"_self\" title=\"Magazines\">\n\t\t\t\t\t\t\t\t\t\t\t<img width=\"800\" height=\"645\" src=\"https://vananouk.nl/wp-content/uploads/2019/03/Magazines.png\" class=\"attachment-full size-full\" alt=\"\" srcset=\"https://vananouk.nl/wp-content/uploads/2019/03/Magazines.png 800w, https://vananouk.nl/wp-content/uploads/2019/03/Magazines-300x242.png 300w, https://vananouk.nl/wp-content/uploads/2019/03/Magazines-768x619.png 768w, https://vananouk.nl/wp-content/uploads/2019/03/Magazines-700x564.png 700w\" sizes=\"(max-width: 800px) 100vw, 800px\" />\t\t\t\t\t\t<span class=\"aig-gallery-hover\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t</div>\n</div>[vc_empty_space][/qode_elements_holder_item][/qode_elements_holder]</div></div></div>[/vc_column][/vc_row]</p>\n",
+   "protected": false
+  },
+  "excerpt": {
+   "rendered": "<p>[vc_row css_animation=&#8221;&#8221; row_type=&#8221;row&#8221; use_row_as_full_screen_section=&#8221;no&#8221; type=&#8221;full_width&#8221; angled_section=&#8221;no&#8221; text_align=&#8221;left&#8221; background_image_as_pattern=&#8221;without_pattern&#8221;][vc_column][/vc_column][/vc_row]</p>\n",
+   "protected": false
+  },
+  "author": 2,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "full_width.php",
+  "meta": [],
+  "_links": {
+   "self": [
+    {
+     "href": "https://vananouk.nl/wp-json/wp/v2/pages/67"
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://vananouk.nl/wp-json/wp/v2/pages"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://vananouk.nl/wp-json/wp/v2/types/page"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://vananouk.nl/wp-json/wp/v2/users/2"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://vananouk.nl/wp-json/wp/v2/comments?post=67"
+    }
+   ],
+   "version-history": [
+    {
+     "count": 44,
+     "href": "https://vananouk.nl/wp-json/wp/v2/pages/67/revisions"
+    }
+   ],
+   "predecessor-version": [
+    {
+     "id": 419,
+     "href": "https://vananouk.nl/wp-json/wp/v2/pages/67/revisions/419"
+    }
+   ],
+   "wp:attachment": [
+    {
+     "href": "https://vananouk.nl/wp-json/wp/v2/media?parent=67"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 46,
+  "date": "2018-03-22T10:12:00",
+  "date_gmt": "2018-03-22T10:12:00",
+  "guid": {
+   "rendered": "http://bridge197.qodeinteractive.com/?page_id=46"
+  },
+  "modified": "2019-05-21T13:30:35",
+  "modified_gmt": "2019-05-21T13:30:35",
+  "slug": "contact",
+  "status": "publish",
+  "type": "page",
+  "link": "https://vananouk.nl/contact/",
+  "title": {
+   "rendered": "Contact"
+  },
+  "content": {
+   "rendered": "<p>[vc_row css_animation=&#8221;&#8221; row_type=&#8221;row&#8221; use_row_as_full_screen_section=&#8221;no&#8221; type=&#8221;full_width&#8221; angled_section=&#8221;no&#8221; text_align=&#8221;left&#8221; background_image_as_pattern=&#8221;without_pattern&#8221;][vc_column]<div class=\"qode-split-scrolling-section\">\n    <div class=\"qode-sss-ms-left\"><div class=\"qode-sss-ms-section\"  style=\"background-image: url(https://vananouk.nl/wp-content/uploads/2019/03/Contact.png);text-align: left\">\n\t[qode_elements_holder number_of_columns=&#8221;one_column&#8221;][qode_elements_holder_item advanced_animations=&#8221;no&#8221; item_padding=&#8221;90.2vh 10px 0px 75px&#8221; item_padding_1280_1440=&#8221;87vh 10px 0px 41px&#8221; item_padding_1024_1280=&#8221;87vh 10px 0px 41px&#8221; item_padding_768_1024=&#8221;85.2vh 10px 49px 41px&#8221; item_padding_600_768=&#8221;81.2vh 10px 28px 41px&#8221; item_padding_480=&#8221;72.2vh 10px 21px 41px&#8221;][vc_empty_space height=&#8221;15px&#8221;]<span data-type=\"normal\" data-hover-icon-color=\"#ffffff\" class=\"qode_icon_shortcode  q_font_awsome_icon fa-lg  \" style=\"margin: 0px 22px 0px 0px; \"><a  itemprop=\"url\" href=\"https://www.facebook.com/vanAnouk/\" target=\"_blank\"><i class=\"qode_icon_font_awesome fa fa-facebook qode_icon_element\" style=\"font-size: 24px;color: #ffffff;\" ></i></a></span><span data-type=\"normal\" data-hover-icon-color=\"#ffffff\" class=\"qode_icon_shortcode  q_font_awsome_icon fa-lg  \" style=\"margin: 0px 22px 0px 0px; \"><a  itemprop=\"url\" href=\"https://www.instagram.com/vananouk1999/\" target=\"_blank\"><i class=\"qode_icon_font_awesome fa fa-instagram qode_icon_element\" style=\"font-size: 24px;color: #ffffff;\" ></i></a></span><span data-type=\"normal\" data-hover-icon-color=\"#ffffff\" class=\"qode_icon_shortcode  q_font_awsome_icon fa-lg  \" style=\"margin: 0px 22px 0px 0px; \"><a  itemprop=\"url\" href=\"https://www.linkedin.com/in/anouk-houter-30659011/\" target=\"_blank\"><i class=\"qode_icon_font_awesome fa fa-linkedin qode_icon_element\" style=\"font-size: 24px;color: #ffffff;\" ></i></a></span>[/qode_elements_holder_item][/qode_elements_holder]</div></div><div class=\"qode-sss-ms-right\"><div class=\"qode-sss-ms-section\"  style=\"background-color: #ffffff;text-align: left\">\n\t[qode_elements_holder background_color=&#8221;#ffffff&#8221; number_of_columns=&#8221;two_columns&#8221; switch_to_one_column=&#8221;1300&#8243;][qode_elements_holder_item advanced_animations=&#8221;no&#8221; item_padding=&#8221;112px 93px 0px 85px&#8221; item_padding_1280_1440=&#8221;58px 50px 0px 47px&#8221; item_padding_1024_1280=&#8221;49px 14px 0px 31px&#8221; item_padding_768_1024=&#8221;42px 185px 44px 32px&#8221; item_padding_600_768=&#8221;42px 43px 37px 34px&#8221; item_padding_480=&#8221;42px 26px 37px 24px&#8221; custom_class=&#8221;eh-with-line&#8221; background_color=&#8221;#ffffff&#8221;][vc_column_text css=&#8221;.vc_custom_1556808529533{margin-bottom: -2% !important;}&#8221;]</p>\n<h1>Samenwerken?</h1>\n<p>[/vc_column_text][vc_empty_space height=&#8221;5px&#8221;][vc_column_text el_class=&#8221;custom-text-block&#8221;]Ik ga graag voor je aan de slag. Stuur een bericht en ik neem zo snel mogelijk contact met je op.[/vc_column_text][vc_empty_space height=&#8221;46px&#8221;]<div role=\"form\" class=\"wpcf7\" id=\"wpcf7-f45-o1\" lang=\"en-US\" dir=\"ltr\">\n<div class=\"screen-reader-response\"></div>\n<form action=\"/wp-json/wp/v2/pages?per_page=100#wpcf7-f45-o1\" method=\"post\" class=\"wpcf7-form cf7_custom_style_1\" novalidate=\"novalidate\">\n<div style=\"display: none;\">\n<input type=\"hidden\" name=\"_wpcf7\" value=\"45\" />\n<input type=\"hidden\" name=\"_wpcf7_version\" value=\"5.1.3\" />\n<input type=\"hidden\" name=\"_wpcf7_locale\" value=\"en_US\" />\n<input type=\"hidden\" name=\"_wpcf7_unit_tag\" value=\"wpcf7-f45-o1\" />\n<input type=\"hidden\" name=\"_wpcf7_container_post\" value=\"0\" />\n</div>\n<div> <span class=\"wpcf7-form-control-wrap your-name\"><input type=\"text\" name=\"your-name\" value=\"\" size=\"40\" class=\"wpcf7-form-control wpcf7-text wpcf7-validates-as-required\" aria-required=\"true\" aria-invalid=\"false\" placeholder=\"Naam\" /></span></div>\n<div><span class=\"wpcf7-form-control-wrap email\"><input type=\"email\" name=\"email\" value=\"\" size=\"40\" class=\"wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email\" aria-required=\"true\" aria-invalid=\"false\" placeholder=\"E-mail\" /></span></div>\n<div><span class=\"wpcf7-form-control-wrap your-message\"><textarea name=\"your-message\" cols=\"40\" rows=\"10\" class=\"wpcf7-form-control wpcf7-textarea\" aria-invalid=\"false\" placeholder=\"Bericht\"></textarea></span></div>\n<p><input type=\"submit\" value=\"Verzend\" class=\"wpcf7-form-control wpcf7-submit\" /></p>\n<div class=\"wpcf7-response-output wpcf7-display-none\"></div></form></div>[vc_empty_space height=&#8221;20px&#8221;][vc_column_text el_class=&#8221;custom-text-block&#8221;]Middenstraat 47  •  4702 GB Roosendaal NL  •  +31 (0)6 28 25 52 10  •  <a class=\"\" href=\"mailto:info@vananouk.nl\">info@vananouk.nl</a></p>\n<p><a href=\"https://vananouk.nl/wp-content/uploads/2019/05/Privacyverklaring-en-cookie-statement-vanAnouk-v1.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Privacyverklaring</a>[/vc_column_text][/qode_elements_holder_item][/qode_elements_holder]</div></div></div>[/vc_column][/vc_row]</p>\n",
+   "protected": false
+  },
+  "excerpt": {
+   "rendered": "<p>[vc_row css_animation=&#8221;&#8221; row_type=&#8221;row&#8221; use_row_as_full_screen_section=&#8221;no&#8221; type=&#8221;full_width&#8221; angled_section=&#8221;no&#8221; text_align=&#8221;left&#8221; background_image_as_pattern=&#8221;without_pattern&#8221;][vc_column][/vc_column][/vc_row]</p>\n",
+   "protected": false
+  },
+  "author": 2,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "full_width.php",
+  "meta": [],
+  "_links": {
+   "self": [
+    {
+     "href": "https://vananouk.nl/wp-json/wp/v2/pages/46"
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://vananouk.nl/wp-json/wp/v2/pages"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://vananouk.nl/wp-json/wp/v2/types/page"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://vananouk.nl/wp-json/wp/v2/users/2"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://vananouk.nl/wp-json/wp/v2/comments?post=46"
+    }
+   ],
+   "version-history": [
+    {
+     "count": 20,
+     "href": "https://vananouk.nl/wp-json/wp/v2/pages/46/revisions"
+    }
+   ],
+   "predecessor-version": [
+    {
+     "id": 432,
+     "href": "https://vananouk.nl/wp-json/wp/v2/pages/46/revisions/432"
+    }
+   ],
+   "wp:attachment": [
+    {
+     "href": "https://vananouk.nl/wp-json/wp/v2/media?parent=46"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 140,
+  "date": "2018-03-22T07:54:08",
+  "date_gmt": "2018-03-22T07:54:08",
+  "guid": {
+   "rendered": "http://bridge197.qodeinteractive.com/?page_id=5"
+  },
+  "modified": "2019-05-16T14:48:26",
+  "modified_gmt": "2019-05-16T14:48:26",
+  "slug": "about",
+  "status": "publish",
+  "type": "page",
+  "link": "https://vananouk.nl/about/",
+  "title": {
+   "rendered": "About"
+  },
+  "content": {
+   "rendered": "<p>[vc_row css_animation=&#8221;&#8221; row_type=&#8221;row&#8221; use_row_as_full_screen_section=&#8221;no&#8221; type=&#8221;full_width&#8221; angled_section=&#8221;no&#8221; text_align=&#8221;left&#8221; background_image_as_pattern=&#8221;without_pattern&#8221;][vc_column]<div class=\"qode-split-scrolling-section\">\n    <div class=\"qode-sss-ms-left\"><div class=\"qode-sss-ms-section\"  style=\"background-image: url(https://vananouk.nl/wp-content/uploads/2019/03/anouk.png);text-align: left\">\n\t[qode_elements_holder number_of_columns=&#8221;one_column&#8221;][qode_elements_holder_item advanced_animations=&#8221;no&#8221; item_padding=&#8221;90.2vh 10px 0px 75px&#8221; item_padding_1280_1440=&#8221;87vh 10px 0px 41px&#8221; item_padding_1024_1280=&#8221;87vh 10px 0px 41px&#8221; item_padding_768_1024=&#8221;85.2vh 10px 49px 41px&#8221; item_padding_600_768=&#8221;81.2vh 10px 28px 41px&#8221; item_padding_480=&#8221;72.2vh 10px 21px 41px&#8221;][vc_empty_space height=&#8221;15px&#8221;]<span data-type=\"normal\" data-hover-icon-color=\"#759ba3\" class=\"qode_icon_shortcode  q_font_awsome_icon fa-lg  \" style=\"margin: 0px 22px 0px 0px; \"><a  itemprop=\"url\" href=\"https://www.facebook.com/vanAnouk/\" target=\"_blank\"><i class=\"qode_icon_font_awesome fa fa-facebook qode_icon_element\" style=\"font-size: 24px;color: #759ba3;\" ></i></a></span><span data-type=\"normal\" data-hover-icon-color=\"#759ba3\" class=\"qode_icon_shortcode  q_font_awsome_icon fa-lg  \" style=\"margin: 0px 22px 0px 0px; \"><a  itemprop=\"url\" href=\"https://www.instagram.com/vananouk1999/\" target=\"_blank\"><i class=\"qode_icon_font_awesome fa fa-instagram qode_icon_element\" style=\"font-size: 24px;color: #759ba3;\" ></i></a></span><span data-type=\"normal\" data-hover-icon-color=\"#759ba3\" class=\"qode_icon_shortcode  q_font_awsome_icon fa-lg  \" style=\"margin: 0px 22px 0px 0px; \"><a  itemprop=\"url\" href=\"https://www.linkedin.com/in/anouk-houter-30659011/\" target=\"_blank\"><i class=\"qode_icon_font_awesome fa fa-linkedin qode_icon_element\" style=\"font-size: 24px;color: #759ba3;\" ></i></a></span>[/qode_elements_holder_item][/qode_elements_holder]</div></div><div class=\"qode-sss-ms-right\"><div class=\"qode-sss-ms-section\"  style=\"background-color: #ffffff;text-align: left\">\n\t[qode_elements_holder number_of_columns=&#8221;one_column&#8221;][qode_elements_holder_item advanced_animations=&#8221;no&#8221; item_padding=&#8221;112px 93px 0px 85px&#8221; item_padding_1280_1440=&#8221;58px 50px 0px 47px&#8221; item_padding_1024_1280=&#8221;49px 14px 0px 31px&#8221; item_padding_768_1024=&#8221;44px 155px 42px 41px&#8221; item_padding_600_768=&#8221;44px 52px 34px 41px&#8221; item_padding_480=&#8221;28px 68px 0px 26px&#8221; custom_class=&#8221;eh-with-line&#8221;][vc_column_text css=&#8221;.vc_custom_1556808491608{margin-bottom: -3% !important;}&#8221;]</p>\n<h1>Anouk Houter</h1>\n<p>[/vc_column_text][vc_empty_space height=&#8221;26px&#8221;][vc_column_text el_class=&#8221;custom-text-block&#8221;]</p>\n<h3 style=\"margin-right: 45px;\">Horen</h3>\n<p>Jouw verhaal, dat is waar onze samenwerking begint. Ik luister graag naar jouw ideeën en wensen, die de basis vormen voor de opdracht die je aan mij toevertrouwt. Het is keer op keer een feestje als ik begin aan een nieuwe opdracht en ontdek hoe jij de wereld ziet, wat je mooi vindt en waar jij uiteindelijk blij van wordt.[/vc_column_text][vc_empty_space height=&#8221;13px&#8221;][vc_column_text el_class=&#8221;custom-text-block&#8221;]</p>\n<h3 style=\"margin-right: 37px;\">Zien</h3>\n<p>Typisch Anouk is dat ik net even verder kijk dan jouw oorspronkelijke wens. Daarin vind ik namelijk het antwoord waarmee ik jou verder kan helpen. Dát in combinatie met mijn passie voor vorm, kleur, eenvoud en subtiele details maakt dat ik het visuele plaatje zorgvuldig laat passen.[/vc_column_text][vc_empty_space height=&#8221;13px&#8221;][vc_column_text el_class=&#8221;custom-text-block&#8221;]</p>\n<h3 style=\"margin-right: 34px;\">Vormgeven</h3>\n<p>Als creatieve aanpakker houd ik van hard werken, net zolang totdat er mooie dingen ontstaan. Of het nu gaat om het ontwerp van een logo, de lay-out van een boek of magazine, een dtp-klus of iets anders, ik duik er vol overgave in. En klaar ben ik als het eindresultaat een blije klant is. Dat is waar ik het allemaal voor doe, dat maakt mij trots op mijn werk![/vc_column_text][vc_empty_space height=&#8221;40px&#8221;][vc_column_text css=&#8221;.vc_custom_1556808465564{margin-bottom: -2% !important;}&#8221;]</p>\n<h2>Recensies</h2>\n<p>[/vc_column_text][vc_empty_space height=&#8221;2px&#8221;]<div class='q_icon_with_title tiny normal_icon '><div class=\"icon_holder \" style=\" \"><span data-icon-type=\"normal\"   style=\"\" class=\"qode_iwt_icon_holder q_font_awsome_icon fa-lg  \"><i class=\"qode_icon_font_awesome fa fa-circle qode_iwt_icon_element\" style=\"color: #759ba3;\" ></i></span></div><div class=\"icon_text_holder\" style=\"\"><div class=\"icon_text_inner\" style=\"\"><h3 class=\"icon_title\" style=\"\">Luc Fermont, Confido Hemelaar de Meijer – Confido Zakelijk – Nijsse &amp; Fermont</h3><p style=''>‘Samenwerken met Anouk gaat gepaard met efficiënte communicatie en korte tijdslijnen. In het proces waarin wij destijds verkeerden was dit onmisbaar. Ondanks de snelheid waarmee werd gewerkt verloor Anouk de kwaliteit niet uit het oog. Toen wij al tevreden waren zette Anouk nog meer puntjes op de i. Kortom: Anouk levert toegevoegde waarde. Dat is toch waar alles om draait?’</p></div></div></div>[/qode_elements_holder_item][/qode_elements_holder]</div></div></div>[/vc_column][/vc_row]</p>\n",
+   "protected": false
+  },
+  "excerpt": {
+   "rendered": "<p>[vc_row css_animation=&#8221;&#8221; row_type=&#8221;row&#8221; use_row_as_full_screen_section=&#8221;no&#8221; type=&#8221;full_width&#8221; angled_section=&#8221;no&#8221; text_align=&#8221;left&#8221; background_image_as_pattern=&#8221;without_pattern&#8221;][vc_column][/vc_column][/vc_row]</p>\n",
+   "protected": false
+  },
+  "author": 2,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 0,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "full_width.php",
+  "meta": [],
+  "_links": {
+   "self": [
+    {
+     "href": "https://vananouk.nl/wp-json/wp/v2/pages/140"
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://vananouk.nl/wp-json/wp/v2/pages"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://vananouk.nl/wp-json/wp/v2/types/page"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://vananouk.nl/wp-json/wp/v2/users/2"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://vananouk.nl/wp-json/wp/v2/comments?post=140"
+    }
+   ],
+   "version-history": [
+    {
+     "count": 23,
+     "href": "https://vananouk.nl/wp-json/wp/v2/pages/140/revisions"
+    }
+   ],
+   "predecessor-version": [
+    {
+     "id": 418,
+     "href": "https://vananouk.nl/wp-json/wp/v2/pages/140/revisions/418"
+    }
+   ],
+   "wp:attachment": [
+    {
+     "href": "https://vananouk.nl/wp-json/wp/v2/media?parent=140"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ }
+]

@@ -230,6 +230,8 @@ def main():
     for u in list(core) + list(extra_q):
         seen.add(u)
 
+    if os.environ.get('INITIAL_WAIT'):
+        time.sleep(float(os.environ['INITIAL_WAIT']))
     while core or extra_q:
         if core:
             u, is_low = core.popleft(), False

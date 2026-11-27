@@ -15,6 +15,11 @@ omgezet naar relatieve paden, zodat de kopie op elke host en lokaal werkt.
 | `content-export/` | De ruwe inhoud uit de WordPress-API (pagina's, berichten en de mediabibliotheek) als JSON, handig voor een latere herbouw |
 | `tools/` | De scripts waarmee de kopie is gemaakt, zodat dit later te herhalen is |
 
+Eén klein verschil: de live site heeft een script dat bezoekers altijd naar `https://`
+stuurt. Dat script staat er nog precies zo in, maar laat nu `localhost` en `127.0.0.1`
+met rust, zodat je de kopie lokaal kunt bekijken. Op het echte domein gedraagt het zich
+hetzelfde als nu.
+
 ## Lokaal bekijken
 
 ```bash
