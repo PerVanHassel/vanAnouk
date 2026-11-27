@@ -24,7 +24,7 @@ const pages = process.argv.slice(4);
     page.on('requestfailed', r => { if (r.url().startsWith(base)) missing.add('FAILED ' + r.url().slice(base.length)); });
     page.on('console', m => { if (m.type() === 'error') consoleErrors.push(tag + ' ' + page.url().slice(base.length) + ': ' + m.text().slice(0, 200)); });
     for (const p of pages) {
-      await page.goto(base + p, { waitUntil: 'networkidle' }).catch(e => missing.add('GOTO ' + p + ' ' + e.message));
+      await page.goto(base + encodeURI(p), { waitUntil: 'networkidle' }).catch(e => missing.add('GOTO ' + p + ' ' + e.message));
       await page.waitForTimeout(2500);
       // scroll to trigger lazy content and appear-animations
       await page.evaluate(async () => {

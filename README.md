@@ -20,6 +20,12 @@ stuurt. Dat script staat er nog precies zo in, maar laat nu `localhost` en `127.
 met rust, zodat je de kopie lokaal kunt bekijken. Op het echte domein gedraagt het zich
 hetzelfde als nu.
 
+## Gecontroleerd
+
+Alle 49 pagina's en de 404-pagina zijn in een browser geopend, op desktop (1440 px) en
+mobiel (390 px). Er ontbreekt geen enkel bestand, geen enkel verzoek gaat nog naar de
+live site, en er zijn geen scriptfouten.
+
 ## Lokaal bekijken
 
 ```bash
