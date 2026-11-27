@@ -1,6 +1,16 @@
 # vanAnouk — grafisch ontwerp
 
-Statische herbouw van [vananouk.nl](https://vananouk.nl/). De site ziet er hetzelfde uit en werkt hetzelfde als de huidige WordPress-site (Bridge-thema), maar heeft geen WordPress, database of plugins meer nodig. Het is gewone HTML, CSS en JavaScript.
+Nieuwe versie van [vananouk.nl](https://vananouk.nl/). Eerst is de huidige WordPress-site (Bridge-thema) exact nagebouwd in gewone HTML, CSS en JavaScript, zonder WordPress, database of plugins (die 1-op-1-kopie is commit `5bb3043`). Daarna is de vernieuwing toegevoegd die hieronder staat.
+
+De live site op vananouk.nl is nog niet aangepast. Deze versie staat alleen op GitHub, met een preview op <https://pervanhassel.github.io/vanAnouk/>.
+
+## Vernieuwing (november 2026)
+
+- **Een kleur per onderdeel**: Over is harmonie groen (`#7c9c80`), Portfolio en de vier portfoliopagina's zijn nuance lila paars (`#9d8fb5`) en Contact is zomers oranje (`#d98c56`). Home houdt het grijsblauw (`#759ba3`). De kleuren staan bovenaan `assets/css/style.css` en zijn daar in één keer aan te passen.
+- **Signal**: op de contactpagina staat een knop die direct een Signal-chat opent met 06 28 25 52 10.
+- **SEO**: echte paginatitels en beschrijvingen, één hoofdkop per pagina, alt-teksten bij alle afbeeldingen, gegevens voor Google (bedrijf, adres, Anouk Houter, kruimelpad), een `sitemap.xml` en een `robots.txt` die zoekmachines toelaat. Op de preview op github.io staat een `noindex`, zodat die niet in Google komt.
+- **Sneller**: alle foto's staan er ook als WebP (31,8 MB → 4,8 MB); browsers die dat niet kennen krijgen de PNG.
+- **Kleine verbeteringen**: inzoomen op telefoons kan weer, het mobiele menu werkt ook met het toetsenbord, en de knop op de 404-pagina is zichtbaar.
 
 ## Wat staat waar
 
@@ -20,14 +30,9 @@ Statische herbouw van [vananouk.nl](https://vananouk.nl/). De site ziet er hetze
 
 De adressen van de pagina's en bestanden zijn gelijk aan die van de huidige site, zodat bestaande links (bijvoorbeeld naar de privacyverklaring) blijven werken.
 
-## Bekijken op telefoon en laptop (GitHub Pages)
+## Bekijken op telefoon en laptop
 
-1. Ga op GitHub naar deze repository → **Settings** → **Pages**.
-2. Kies bij **Source** voor **Deploy from a branch**.
-3. Kies de branch `claude/wizardly-galileo-0yn0as` en de map `/ (root)` en klik op **Save**.
-4. Na ongeveer een minuut staat de site op `https://pervanhassel.github.io/vanAnouk/`.
-
-GitHub Pages is gratis voor openbare repositories; voor een privé-repository is een betaald GitHub-abonnement nodig.
+De preview staat op <https://pervanhassel.github.io/vanAnouk/> (GitHub Pages, gepubliceerd vanaf de branch `claude/wizardly-galileo-0yn0as`). Elke wijziging op die branch staat er binnen een minuut.
 
 Lokaal bekijken kan ook: open een terminal in deze map, start `python3 -m http.server 8000` en ga naar <http://localhost:8000>.
 
@@ -42,13 +47,11 @@ Het formulier geeft dezelfde meldingen als het origineel. Het echte versturen ge
 3. Upload alle bestanden uit deze repository naar de webmap (via FTP).
 4. Controleer de pagina's en verstuur een testbericht via het contactformulier.
 
-## Bewust ongewijzigd overgenomen
+## Nog te doen
 
-De nieuwe versie is een exacte kopie, dus ook deze eigenschappen van de huidige site zijn hetzelfde gebleven:
-
-- Zoekmachines worden geweerd (`noindex` op elke pagina en `Disallow: /` in `robots.txt`). De site is daardoor niet vindbaar in Google.
-- De paginatitel van de homepage is "vanAnouk – En nog een WordPress site" (de standaardtekst van WordPress).
-- De knop "Terug naar de startpagina" op de 404-pagina is wit op wit en dus onzichtbaar.
+- **Beheeromgeving**: portfolio-artikelen en recensies toevoegen, de Google-reviewlink snel bij de hand hebben en ingevulde contactformulieren bekijken. Daarvoor is hosting met PHP nodig (zoals bhosted); de aanpak is nog niet gekozen.
+- **Uitgebreidere portfolio-artikelen met recensies**: de teksten en recensies per project moeten nog worden aangeleverd.
+- **Bij het live zetten**: de site aanmelden bij Google Search Console met `https://vananouk.nl/sitemap.xml`, en een Google Bedrijfsprofiel aanmaken of bijwerken (daar komt ook de reviewlink vandaan).
 
 ## Licenties van gebruikte onderdelen
 
