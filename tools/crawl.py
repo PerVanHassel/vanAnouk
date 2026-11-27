@@ -105,13 +105,29 @@ def fetch(url, out):
         body = open(out, 'rb').read()
         if is_challenge(body):
             tries += 1
-            wait = min(60 * tries, 300)
+            global PENALTY, STREAK
+            PENALTY = min(max(90, PENALTY * 2), 600)
+            STREAK = 0
+            wait = PENALTY
             print(f'  rate-limit page, backing off {wait}s (try {tries})', flush=True)
             if tries > 8:
                 return None
             time.sleep(wait)
             continue
+        STREAK_OK()
         return int(code), final, ctype
+
+
+PENALTY = 0
+STREAK = 0
+
+
+def STREAK_OK():
+    global PENALTY, STREAK
+    STREAK += 1
+    if STREAK >= 25:
+        PENALTY = PENALTY // 2
+        STREAK = 0
 
 
 def extract(url, body, ctype):
@@ -166,35 +182,71 @@ def extract(url, body, ctype):
 
 
 def main():
+    """Fetch the pages and files the site itself uses first ("core"), then
+    the extra files only listed by the media library (attachment pages and
+    every generated image size)."""
     os.makedirs(RAW_DIR, exist_ok=True)
     state = json.load(open(STATE)) if os.path.exists(STATE) else {}
-    q = deque()
-    seen = set(state)
-    extra = sys.argv[2:]
-    for s in SEEDS + extra:
-        u = norm(s, BASE + '/')
-        if u and u not in seen:
-            q.append(u)
-            seen.add(u)
-    # re-queue links of already-fetched files so a resumed run continues
-    for u, rec in list(state.items()):
-        if rec.get('file') and os.path.exists(os.path.join(RAW_DIR, rec['file'])):
-            body = open(os.path.join(RAW_DIR, rec['file']), 'rb').read()
-            for n in extract(rec.get('final') or u, body, rec.get('ctype', '')):
-                if n not in seen:
-                    seen.add(n)
-                    q.append(n)
-    while q:
-        u = q.popleft()
+    core, extra_q = deque(), deque()
+    seen, low = set(state), set()
+    seeds = [norm(s, BASE + '/') for s in SEEDS + sys.argv[2:]]
+
+    def add(n, is_low):
+        if n in seen:
+            if not is_low and n in low:
+                low.discard(n)  # promoted; still queued in extra_q, harmless
+                core.append(n)
+            return
+        seen.add(n)
+        if is_low:
+            low.add(n)
+            extra_q.append(n)
+        else:
+            core.append(n)
+
+    def links_of(u, rec):
+        f = rec.get('file')
+        if not f or not os.path.exists(os.path.join(RAW_DIR, f)):
+            return set()
+        body = open(os.path.join(RAW_DIR, f), 'rb').read()
+        return extract(rec.get('final') or u, body, rec.get('ctype', ''))
+
+    # replay what is already on disk to rebuild both queues
+    queue = deque((s, False) for s in seeds if s)
+    replayed = set()
+    while queue:
+        u, is_low = queue.popleft()
+        if (u, is_low) in replayed:
+            continue
+        replayed.add((u, is_low))
+        if u not in state:
+            seen.discard(u)
+            add(u, is_low)
+            continue
+        child_low = is_low or 'json' in state[u].get('ctype', '')
+        for n in links_of(u, state[u]):
+            if not is_low or n not in [x for x, _ in replayed]:
+                queue.append((n, child_low))
+    for u in list(core) + list(extra_q):
+        seen.add(u)
+
+    while core or extra_q:
+        if core:
+            u, is_low = core.popleft(), False
+        else:
+            u, is_low = extra_q.popleft(), True
+        if u in state:
+            continue
         path = up.urlsplit(u).path
         qry = up.urlsplit(u).query
-        is_seed = any(u == norm(x, BASE + '/') for x in SEEDS)
+        is_seed = u in seeds
         if SKIP_PATH.search(path) or (not is_seed and (path.startswith('/wp-json') or
                 (qry and not ASSET_EXT.search(path)))):
             state[u] = {'skipped': True}
             continue
         tmp = os.path.join(RAW_DIR, '_tmp_download')
-        print(f'[{len(state)}/{len(state) + len(q)}] {u}', flush=True)
+        tag = 'extra' if is_low else 'core'
+        print(f'[{len(state)}] ({tag}: core left {len(core)}, extra left {len(extra_q)}) {u}', flush=True)
         res = fetch(u, tmp)
         if res is None:
             state[u] = {'error': True}
@@ -208,14 +260,15 @@ def main():
             dest = os.path.join(dest, 'index.html')
             name = os.path.join(name, 'index.html')
         os.replace(tmp, dest)
-        state[u] = {'status': code, 'final': final, 'ctype': ctype, 'file': name}
+        state[u] = {'status': code, 'final': final, 'ctype': ctype, 'file': name,
+                    'core': not is_low}
         if code < 400 or u.endswith('deze-pagina-bestaat-niet-404/'):
-            body = open(dest, 'rb').read()
-            for n in extract(final or u, body, ctype):
-                if n not in seen:
-                    seen.add(n)
-                    q.append(n)
+            child_low = is_low or 'json' in ctype
+            for n in extract(final or u, open(dest, 'rb').read(), ctype):
+                add(n, child_low)
         json.dump(state, open(STATE, 'w'), indent=1)
+        if not core and not is_low:
+            print('CORE DONE', flush=True)
     print('DONE', len(state), flush=True)
 
 
