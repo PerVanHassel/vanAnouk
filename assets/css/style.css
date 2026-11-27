@@ -496,18 +496,14 @@ div.wpcf7-response-output.wpcf7-validation-errors::before { content: "\f12a"; }
 .hero.is-ready .hero-bg { opacity: 1; }
 .hero.is-ready .hero-layer { transform: none !important; }
 
-/* Slider responsive levels: >=1441 | 850-1440 | 480-849 | <480 */
-@media only screen and (max-width: 1440px) {
-	.hero-title { left: 62px; top: 112px; font-size: 76px; line-height: 93px; }
-}
-@media only screen and (max-width: 849px) {
-	.hero-title { left: 42px; top: 182px; width: 826px; height: auto; font-size: 65px; line-height: 77px; }
-}
-@media only screen and (max-width: 479px) {
-	.hero-image { right: -58px; width: 873px; height: 704px; }
-	.hero-title { left: 22px; top: 92px; width: 386px; height: auto; font-size: 32px; line-height: 47px; }
-	.hero-social { left: 20px; bottom: -55px; }
-}
+/* Slider responsive levels, picked by the script from the window width
+   (without scrollbar) exactly like the original slider:
+   level 0: >= 1441 | level 1: 850-1440 | level 2: 480-849 | level 3: < 480 */
+.hero.lvl-1 .hero-title { left: 62px; top: 112px; font-size: 76px; line-height: 93px; }
+.hero.lvl-2 .hero-title { left: 42px; top: 182px; width: 826px; height: auto; font-size: 65px; line-height: 77px; }
+.hero.lvl-3 .hero-image { right: -58px; width: 873px; height: 704px; }
+.hero.lvl-3 .hero-title { left: 22px; top: 92px; width: 386px; height: auto; font-size: 32px; line-height: 47px; }
+.hero.lvl-3 .hero-social { left: 20px; bottom: -55px; }
 
 /* ---- Cookie notice ------------------------------------------------------- */
 #cookie-notice {

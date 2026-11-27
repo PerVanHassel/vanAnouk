@@ -364,6 +364,23 @@
 		var title = $('.hero-title', hero);
 		var social = $('.hero-social', hero);
 
+		// Same sizing as the original full-screen slider: the height of the
+		// visible window and a layout level chosen from the window width.
+		function level(width) {
+			if (width < 480) { return 3; }
+			if (width < 850) { return 2; }
+			if (width < 1441) { return 1; }
+			return 0;
+		}
+		function size() {
+			var el = doc.documentElement;
+			hero.style.height = el.clientHeight + 'px';
+			var lvl = level(el.clientWidth);
+			for (var i = 0; i < 4; i++) { hero.classList.toggle('lvl-' + i, i === lvl); }
+		}
+		size();
+		win.addEventListener('resize', size);
+
 		// start positions: photo below the slide, text and icons left of it
 		function setStart() {
 			var h = hero.offsetHeight;
