@@ -34,6 +34,13 @@
 	src: url(../fonts/icons.woff2) format('woff2');
 }
 
+/* ---- Colours -------------------------------------------------------------
+   Every section of the site has its own colour. Home keeps the grey-blue.  */
+:root { --accent: #759ba3; --accent-rgb: 117, 155, 163; }
+.section-over { --accent: #7c9c80; --accent-rgb: 124, 156, 128; }      /* harmonie groen */
+.section-portfolio { --accent: #9d8fb5; --accent-rgb: 157, 143, 181; } /* nuance lila paars */
+.section-contact { --accent: #d98c56; --accent-rgb: 217, 140, 86; }    /* zomers oranje */
+
 /* ---- Base ---------------------------------------------------------------- */
 html { height: 100%; margin: 0; padding: 0; }
 body {
@@ -51,7 +58,7 @@ body {
 }
 h1, h2, h3, p { margin: 0; padding: 0; border: 0; }
 h1 {
-	color: #759ba3;
+	color: var(--accent);
 	font-family: 'Assistant', sans-serif;
 	font-size: 60px;
 	line-height: 110px;
@@ -60,7 +67,7 @@ h1 {
 	text-transform: capitalize;
 }
 h2 {
-	color: #759ba3;
+	color: var(--accent);
 	font-family: 'Assistant', sans-serif;
 	font-size: 30px;
 	line-height: 110px;
@@ -69,7 +76,7 @@ h2 {
 	text-transform: capitalize;
 }
 h3 {
-	color: #759ba3;
+	color: var(--accent);
 	font-family: 'Assistant', sans-serif;
 	font-size: 16px;
 	line-height: 28px;
@@ -85,11 +92,11 @@ p {
 	font-weight: 400;
 }
 a { color: #303030; text-decoration: none; cursor: pointer; outline: 0; }
-a:hover { color: #759ba3; }
+a:hover { color: var(--accent); }
 a img { border: none; }
 img { max-width: 100%; height: auto; vertical-align: middle; }
-::selection { background: #759ba3; }
-::-moz-selection { background: #759ba3; }
+::selection { background: var(--accent); }
+::-moz-selection { background: var(--accent); }
 
 /* ---- Icons --------------------------------------------------------------- */
 .icon {
@@ -193,7 +200,7 @@ img { max-width: 100%; height: auto; vertical-align: middle; }
 	background-color: #fff;
 }
 .full-width { position: relative; z-index: 100; background-color: #fff; }
-.page-teal .full-width { background-color: #759ba3; }
+.page-color .full-width { background-color: var(--accent); }
 
 /* ---- Split screen (image left, content right) ---------------------------- */
 .split { position: relative; overflow: hidden; height: 100%; text-align: left; }
@@ -234,7 +241,7 @@ img { max-width: 100%; height: auto; vertical-align: middle; }
 	transition: color .3s ease-in-out;
 }
 .social-white .social-icon .icon { color: #fff; }
-.social-teal .social-icon .icon { color: #759ba3; }
+.social-accent .social-icon .icon { color: var(--accent); }
 
 /* Text blocks */
 .text-block p:empty { display: none; }
@@ -249,7 +256,7 @@ img { max-width: 100%; height: auto; vertical-align: middle; }
 .review { position: relative; display: block; padding-bottom: 36px; }
 .review .icon-holder { position: relative; float: left; z-index: 2; }
 .review .icon-holder .icon-lg { font-size: 17px; }
-.review .icon-holder .icon { font-size: 17px; line-height: 17px; color: #759ba3; transition: color .3s ease-in-out; }
+.review .icon-holder .icon { font-size: 17px; line-height: 17px; color: var(--accent); transition: color .3s ease-in-out; }
 .review .review-text { position: relative; padding: 0 0 0 30px; }
 .review .review-inner { padding-bottom: 18px; }
 .review h3 { margin-bottom: 11px; }
@@ -283,7 +290,7 @@ img { max-width: 100%; height: auto; vertical-align: middle; }
 	display: block;
 	width: 100%;
 	height: 100%;
-	background-color: rgba(117, 155, 163, .7);
+	background-color: rgba(var(--accent-rgb), .7);
 	opacity: 0;
 	transition: opacity .2s ease-in-out;
 }
@@ -315,7 +322,7 @@ img { max-width: 100%; height: auto; vertical-align: middle; }
 	cursor: pointer;
 	transition: color .1s linear, background-color .1s linear, border-color .1s linear;
 }
-.qbutton:hover { color: #fff; border-color: #fff; background-color: #759ba3; text-decoration: none; }
+.qbutton:hover { color: #fff; border-color: #fff; background-color: var(--accent); text-decoration: none; }
 
 /* ---- Contact form -------------------------------------------------------- */
 .wpcf7 { position: relative; }
@@ -367,11 +374,11 @@ img { max-width: 100%; height: auto; vertical-align: middle; }
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
-	border: 1px solid #759ba3;
+	border: 1px solid var(--accent);
 	border-radius: 0;
 	-webkit-appearance: none;
 	appearance: none;
-	background-color: #759ba3;
+	background-color: var(--accent);
 	color: #fff;
 	font-family: Montserrat;
 	font-size: 15px;
@@ -385,7 +392,7 @@ img { max-width: 100%; height: auto; vertical-align: middle; }
 	outline: 0;
 	transition: all .1s linear;
 }
-.wpcf7-form input.wpcf7-submit:hover { color: #fff; background-color: #759ba3; border-color: #759ba3; }
+.wpcf7-form input.wpcf7-submit:hover { color: #fff; background-color: var(--accent); border-color: var(--accent); }
 .wpcf7 .ajax-loader {
 	visibility: hidden;
 	display: inline-block;
@@ -488,7 +495,7 @@ div.wpcf7-response-output.wpcf7-validation-errors::before { content: "\f12a"; }
 	transition: color .3s ease-in-out;
 }
 .hero-social a:first-child { margin-left: 6px; }
-.hero-social a:hover .icon { color: #759ba3; }
+.hero-social a:hover .icon { color: var(--accent); }
 .hero.is-animating .hero-bg { transition: opacity .5s cubic-bezier(.455, .03, .515, .955) .06s; }
 .hero.is-animating .hero-image { transition: transform .8s cubic-bezier(.215, .61, .355, 1) .01s; }
 .hero.is-animating .hero-title { transition: transform .8s cubic-bezier(.215, .61, .355, 1) .2s; }
@@ -711,7 +718,7 @@ div.wpcf7-response-output.wpcf7-validation-errors::before { content: "\f12a"; }
 		height: 17px;
 		font-size: 25px;
 		z-index: 50;
-		color: #759ba3;
+		color: var(--accent);
 		cursor: pointer;
 		transition: opacity .3s ease;
 	}
@@ -753,7 +760,7 @@ div.wpcf7-response-output.wpcf7-validation-errors::before { content: "\f12a"; }
 		position: relative;
 		margin: 0;
 		padding: 0;
-		border-bottom: 1px solid #759ba3;
+		border-bottom: 1px solid var(--accent);
 	}
 	.mobile-nav li:last-child { border: 0; }
 	.mobile-nav a {
@@ -769,7 +776,7 @@ div.wpcf7-response-output.wpcf7-validation-errors::before { content: "\f12a"; }
 		transition: all .2s ease;
 		-webkit-tap-highlight-color: transparent;
 	}
-	.mobile-nav a:hover, .mobile-nav li.active > a { color: #759ba3; }
+	.mobile-nav a:hover, .mobile-nav li.active > a { color: var(--accent); }
 }
 
 @media only screen and (max-width: 768px) {
@@ -849,3 +856,72 @@ div.wpcf7-response-output.wpcf7-validation-errors::before { content: "\f12a"; }
 	.title-area h1 { font-size: 20px; line-height: 25px; }
 }
 @media only screen and (max-width: 350px) { .container-inner { width: 95%; } }
+
+/* ==========================================================================
+   Renewal additions
+   ========================================================================== */
+
+/* text only for screen readers and search engines */
+.visually-hidden {
+	position: absolute !important;
+	width: 1px;
+	height: 1px;
+	padding: 0;
+	margin: -1px;
+	overflow: hidden;
+	clip: rect(0, 0, 0, 0);
+	white-space: nowrap;
+	border: 0;
+}
+
+/* page titles that are h1 for search engines but look like the old h2 */
+h1.as-h2 {
+	font-size: 30px;
+	line-height: 110px;
+	font-weight: 400;
+	letter-spacing: 0;
+	text-transform: capitalize;
+}
+
+.hero-image picture,
+.gallery-item picture { display: block; }
+.hero-image picture { width: 100%; height: 100%; }
+
+/* Signal button on the contact page */
+.signal-button {
+	position: relative;
+	display: block;
+	width: 100%;
+	height: 60px;
+	line-height: 58px;
+	padding: 0 15px;
+	box-sizing: border-box;
+	border: 1px solid var(--accent);
+	background-color: transparent;
+	color: var(--accent);
+	font-family: Montserrat;
+	font-size: 15px;
+	font-weight: 500;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	text-align: center;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	transition: color .1s linear, background-color .1s linear;
+}
+.signal-button:hover,
+.signal-button:focus { background-color: var(--accent); color: #fff; }
+@media only screen and (max-width: 420px) {
+	.signal-button { font-size: 13px; letter-spacing: .5px; }
+}
+
+/* the button on the 404 page was white on white */
+.page-not-found .qbutton { border-color: var(--accent); color: var(--accent); }
+.page-not-found .qbutton:hover { background-color: var(--accent); color: #fff; }
+
+/* visible keyboard focus */
+a:focus-visible,
+.menu-toggle span:focus-visible,
+input:focus-visible,
+textarea:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }

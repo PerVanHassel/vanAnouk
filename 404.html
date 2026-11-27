@@ -9,8 +9,12 @@
 			document.write('<base href="' + root + '">');
 		})();
 	</script>
-	<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<script>document.documentElement.className += ' js';</script>
+	<script>
+		/* the preview on GitHub Pages must not end up in search engines */
+		if (/\.github\.io$/.test(location.hostname)) { document.write('<meta name="robots" content="noindex,nofollow">'); }
+	</script>
 	<title>Pagina niet gevonden – vanAnouk</title>
 	<meta name="robots" content="noindex,follow">
 	<link rel="shortcut icon" type="image/x-icon" href="wp-content/uploads/2019/05/A.png">
@@ -23,9 +27,9 @@
 <div class="wrapper-inner">
 <header class="site-header header-light">
 	<div class="header-bottom">
-		<div class="menu-toggle"><span><i class="icon icon-bars"></i></span></div>
-		<a class="logo" href=""><img class="logo-desktop" src="wp-content/uploads/2019/03/Logo-vanAnouk-grijs-web.png" alt="Logo" width="618" height="278"><img class="logo-mobile" src="wp-content/uploads/2019/03/vanAnouk-logo-web.png" alt="Logo" width="618" height="278"></a>
-		<nav class="main-nav">
+		<div class="menu-toggle"><span role="button" tabindex="0" aria-label="Menu"><i class="icon icon-bars"></i></span></div>
+		<a class="logo" href=""><img class="logo-desktop" src="wp-content/uploads/2019/03/Logo-vanAnouk-grijs-web.png" alt="vanAnouk grafisch ontwerp" width="618" height="278"><img class="logo-mobile" src="wp-content/uploads/2019/03/vanAnouk-logo-web.png" alt="vanAnouk grafisch ontwerp" width="618" height="278"></a>
+		<nav class="main-nav" aria-label="Hoofdmenu">
 			<ul>
 				<li><a href=""><span>Home<span class="dash"></span></span></a></li>
 				<li><a href="about/"><span>Over<span class="dash"></span></span></a></li>
@@ -33,7 +37,7 @@
 				<li><a href="contact/"><span>Contact<span class="dash"></span></span></a></li>
 			</ul>
 		</nav>
-		<nav class="mobile-nav">
+		<nav class="mobile-nav" aria-label="Mobiel menu">
 			<ul>
 				<li><a href=""><span>Home</span></a></li>
 				<li><a href="about/"><span>Over</span></a></li>
@@ -44,7 +48,7 @@
 	</div>
 </header>
 <div class="content">
-	<div class="content-inner">
+	<main class="content-inner">
 		<div class="title-area">
 			<div class="title-holder">
 				<div class="container">
@@ -65,7 +69,7 @@
 				</div>
 			</div>
 		</div>
-	</div>
+	</main>
 </div>
 </div>
 </div>

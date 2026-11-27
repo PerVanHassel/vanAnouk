@@ -87,9 +87,18 @@
 		var toggle = $('.menu-toggle span');
 		var list = $('.mobile-nav > ul');
 		if (!toggle || !list) { return; }
+		function flip() {
+			var open = isVisible(list);
+			if (open) { slideUp(list, 200); } else { slideDown(list, 200); }
+			toggle.setAttribute('aria-expanded', open ? 'false' : 'true');
+		}
+		toggle.setAttribute('aria-expanded', 'false');
 		toggle.addEventListener('click', function (e) {
 			e.preventDefault();
-			if (isVisible(list)) { slideUp(list, 200); } else { slideDown(list, 200); }
+			flip();
+		});
+		toggle.addEventListener('keydown', function (e) {
+			if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); flip(); }
 		});
 		$$('.mobile-nav a, .logo').forEach(function (a) {
 			a.addEventListener('click', function () {
@@ -160,7 +169,12 @@
 		var links = $$('a[data-lightbox]');
 		if (!links.length) { return; }
 
-		var items = links.map(function (a) { return { href: a.getAttribute('href'), title: a.getAttribute('title') || '' }; });
+		var canvas = doc.createElement('canvas');
+		var supportsWebp = !!(canvas.getContext && canvas.toDataURL('image/webp').indexOf('data:image/webp') === 0);
+		var items = links.map(function (a) {
+			var src = (supportsWebp && a.getAttribute('data-webp')) || a.getAttribute('href');
+			return { href: src, title: a.getAttribute('title') || '' };
+		});
 		var overlay, holder, titleEl, content, fade, imgWrap, img, counter, loader;
 		var index = 0, opened = false, busy = false;
 
@@ -391,12 +405,13 @@
 		setStart();
 		hero.classList.add('is-init');
 
-		var srcs = [hero.getAttribute('data-bg'), $('img', image).getAttribute('src')];
-		var pending = srcs.length;
+		var bgSrc = hero.getAttribute('data-bg');
+		var photo = $('img', image);
+		var pending = 2;
 		function loaded() {
 			pending -= 1;
 			if (pending > 0) { return; }
-			bg.style.backgroundImage = 'url("' + srcs[0] + '")';
+			bg.style.backgroundImage = 'url("' + bgSrc + '")';
 			// two frames so the start position is painted before animating
 			win.requestAnimationFrame(function () {
 				win.requestAnimationFrame(function () {
@@ -409,11 +424,15 @@
 				});
 			});
 		}
-		srcs.forEach(function (src) {
-			var im = new Image();
-			im.onload = im.onerror = loaded;
-			im.src = src;
-		});
+		var bgImage = new Image();
+		bgImage.onload = bgImage.onerror = loaded;
+		bgImage.src = bgSrc;
+		// wait for the photo the browser actually picked (WebP or PNG)
+		if (photo.complete) { loaded(); }
+		else {
+			photo.addEventListener('load', loaded);
+			photo.addEventListener('error', loaded);
+		}
 	}
 
 	/* ------------------------------------------------------------------ */
