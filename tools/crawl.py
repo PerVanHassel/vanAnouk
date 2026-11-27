@@ -52,7 +52,9 @@ CSS_IMPORT = re.compile(r'@import\s+([\'"])([^\'"]+)\1', re.I)
 
 
 def is_challenge(body: bytes) -> bool:
-    return b'One moment, please' in body[:3000] and b'request is being verified' in body
+    # The host's rate-limit page comes in several languages ("One moment,
+    # please...", "Even geduld..."); its markup is the same.
+    return b'class="throbber"' in body and b'window.location.reload()' in body
 
 
 def norm(url, base):

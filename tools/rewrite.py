@@ -130,6 +130,9 @@ if os.path.isdir(OUT):
     shutil.rmtree(OUT)
 os.makedirs(OUT)
 os.makedirs(DATA, exist_ok=True)
+FORCE_HTTPS = 'if (document.location.protocol != "https:") {'
+FORCE_HTTPS_LOCAL_OK = ('if (document.location.protocol != "https:" && '
+                        '!/^(localhost|127\\.0\\.0\\.1)$/.test(document.location.hostname)) {')
 TEXT_EXT = ('.html', '.htm', '.css', '.js', '.json', '.xml', '.svg', '.txt')
 for raw_file, out_file in sorted(files.items()):
     src = os.path.join(RAW, raw_file)
@@ -145,6 +148,9 @@ for raw_file, out_file in sorted(files.items()):
     if out_file.lower().endswith(('.html', '.htm', '.css')) or out_file == '404.html':
         text = open(src, encoding='utf-8', errors='surrogateescape').read()
         text = rewrite_text(text, out_file)
+        # The live site forces https with an inline script. Keep it, but let a
+        # local preview (http://localhost / 127.0.0.1) through.
+        text = text.replace(FORCE_HTTPS, FORCE_HTTPS_LOCAL_OK)
         open(dst, 'w', encoding='utf-8', errors='surrogateescape').write(text)
     else:
         shutil.copyfile(src, dst)
